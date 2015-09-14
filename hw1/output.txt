@@ -300,3 +300,4 @@ GOLD:	AM: -2.13E03	LM: -9.41E01	Total: -2.22E03	[yesterday, many, corn, futures,
 
 GUESS:	AM: -9.69E02	LM: -4.55E01	Total: -1.01E03	[the, could, n't, be, reached, for, comment]
 GOLD:	AM: -9.67E02	LM: -4.99E01	Total: -1.02E03	[she, could, n't, be, reached, for, comment]
+
