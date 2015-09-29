@@ -1,0 +1,1059 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs22 \cf2 Error: CyberCrime guess=movie gold= confidence=0.983273547971271\cf0 \
+\cf2 Error: C?sar guess=person gold= confidence=0.4358112886525206\cf0 \
+\cf2 Error: D-dag - Instrukt?rene guess=movie gold= confidence=0.9971924703130023\cf0 \
+\cf2 Error: D.C. guess=drug gold= confidence=0.39323529988571465\cf0 \
+\cf2 Error: Da Hip Hop Witch guess=person gold= confidence=0.9210005605062379\cf0 \
+\cf2 Error: Dada Sahib guess=person gold= confidence=0.616325462876204\cf0 \
+\cf2 Error: Dakhtaran-e Khorshid guess=place gold= confidence=0.9714521667422943\cf0 \
+\cf2 Error: Daleko od okna guess=movie gold= confidence=0.9945515611718094\cf0 \
+\cf2 Error: Dalheim guess=place gold= confidence=0.9096480809363351\cf0 \
+\cf2 Error: Dalziel and Pascoe: Above the Law guess=movie gold= confidence=0.9999999999961938\cf0 \
+\cf2 Error: Dalziel and Pascoe: Cunning Old Fox guess=movie gold= confidence=0.9999999212247896\cf0 \
+\cf2 Error: Dancing at the Blue Iguana guess=movie gold= confidence=0.9999995211889336\cf0 \
+\cf2 Error: Danny and Max guess=movie gold= confidence=0.9933212980030552\cf0 \
+\cf2 Error: Daria in Is It Fall Yet? guess=movie gold= confidence=0.9999999963320978\cf0 \
+\cf2 Error: Dark Knight guess=movie gold= confidence=0.5865107820667993\cf0 \
+\cf2 Error: Das Herz eines Priesters guess=movie gold= confidence=0.9937453374507904\cf0 \
+\cf2 Error: Das Rote Quadrat guess=movie gold= confidence=0.9660323030426493\cf0 \
+\cf2 Error: Das Schlosshotel guess=movie gold= confidence=0.9994992675956816\cf0 \
+\cf2 Error: Daughters of the Sun guess=movie gold= confidence=0.9999141953440988\cf0 \
+\cf2 Error: Day After Day guess=movie gold= confidence=0.9992758886832486\cf0 \
+\cf2 Error: Daybreak guess=movie gold= confidence=0.9989853981866915\cf0 \
+\cf2 Error: Dayereh guess=movie gold= confidence=0.677487067045645\cf0 \
+\cf2 Error: De Geheime dienst guess=movie gold= confidence=0.9980120504341019\cf0 \
+\cf2 Error: De Stilte... guess=movie gold= confidence=0.9855772653735482\cf0 \
+\cf2 Error: De Ware Lodewijk - de ontknoping guess=movie gold= confidence=0.9633536120060013\cf0 \
+\cf2 Error: De la bouche des enfants guess=movie gold= confidence=0.9999998332736152\cf0 \
+\cf2 Error: Dead by Monday guess=movie gold= confidence=0.9656557650098592\cf0 \
+\cf2 Error: Dear America: A Line in the Sand guess=movie gold= confidence=0.9999999898528704\cf0 \
+\cf2 Error: Dear America: When Will This Cruel War Be Over? guess=movie gold= confidence=0.9999983945811236\cf0 \
+\cf2 Error: Death of a Salesman guess=movie gold= confidence=0.9983506482260905\cf0 \
+\cf2 Error: Death of a Saleswoman guess=movie gold= confidence=0.9999041293607733\cf0 \
+\cf2 Error: Deep in the Woods guess=movie gold= confidence=0.9999993720631557\cf0 \
+\cf2 Error: Delta Force: Land Warrior guess=movie gold= confidence=0.996210437038255\cf0 \
+\cf2 Error: Delusional guess=movie gold= confidence=0.7300971544917106\cf0 \
+\cf2 Error: Demasiado amor guess=movie gold= confidence=0.7935303683144842\cf0 \
+\cf2 Error: Denton Meets Ian Thorpe guess=place gold= confidence=0.7732395680757368\cf0 \
+\cf2 Error: Der Boxprinz guess=movie gold= confidence=0.7493183574285734\cf0 \
+\cf2 Error: Der Kleine Lord - Retter in der Not guess=movie gold= confidence=0.999984235940103\cf0 \
+\cf2 Error: Der K?nig tanzt guess=movie gold= confidence=0.9934677783559877\cf0 \
+\cf2 Error: Der Million?r und die Stripperin guess=movie gold= confidence=0.9999999694093978\cf0 \
+\cf2 Error: Det Nya landet guess=movie gold= confidence=0.9902802095582949\cf0 \
+\cf2 Error: Detector guess=drug gold= confidence=0.8963906888539501\cf0 \
+\cf2 Error: Deus Jr. guess=person gold= confidence=0.9981030808766481\cf0 \
+\cf2 Error: Dhai Akshar Prem Ke guess=person gold= confidence=0.9587445818691345\cf0 \
+\cf2 Error: Diary of Lust guess=movie gold= confidence=0.9985507721260114\cf0 \
+\cf2 Error: Die Biester guess=movie gold= confidence=0.9529752394326252\cf0 \
+\cf2 Error: Die Blutgr?fin guess=movie gold= confidence=0.9997004104875601\cf0 \
+\cf2 Error: Die Einsamkeit der Krokodile guess=movie gold= confidence=0.994346237321452\cf0 \
+\cf2 Error: Die Insel der Vergessenen guess=movie gold= confidence=0.9999886379055472\cf0 \
+\cf2 Error: Die Nacht der Engel guess=movie gold= confidence=0.9994451186303382\cf0 \
+\cf2 Error: Die Spur meiner Tochter guess=movie gold= confidence=0.9999999419210864\cf0 \
+\cf2 Error: Die Zehn Gebote der Kreativit?t guess=movie gold= confidence=0.9999958049747729\cf0 \
+\cf2 Error: Dinner for Two guess=movie gold= confidence=0.9992385750305169\cf0 \
+\cf2 Error: Distinctii militare rom?nesti guess=movie gold= confidence=0.9999688548505404\cf0 \
+\cf2 Error: Divertimento guess=movie gold= confidence=0.9451828362692793\cf0 \
+\cf2 Error: Divided We Fall guess=movie gold= confidence=0.9962893279153144\cf0 \
+\cf2 Error: Dixie Chicks On the Fly guess=movie gold= confidence=0.9998310163904162\cf0 \
+\cf2 Error: Di?stole y s?stole guess=movie gold= confidence=0.6623320916957618\cf0 \
+\cf2 Error: Djomeh guess=movie gold= confidence=0.4362438567559731\cf0 \
+\cf2 Error: Dog Food guess=movie gold= confidence=0.9453361934252619\cf0 \
+\cf2 Error: Dogme # 16 - Bad Actors guess=movie gold= confidence=0.9999996344790445\cf0 \
+\cf2 Error: Dogme 4 guess=movie gold= confidence=0.9827434043804268\cf0 \
+\cf2 Error: Dogwatch guess=movie gold= confidence=0.9939181847050614\cf0 \
+\cf2 Error: Dogwoman: Dead Dog Walking guess=movie gold= confidence=0.9999999105204833\cf0 \
+\cf2 Error: Dol? guess=drug gold= confidence=0.36858557057178937\cf0 \
+\cf2 Error: Don't Kill guess=movie gold= confidence=0.9645266519370562\cf0 \
+\cf2 Error: Donald Duck Goin' Quackers guess=movie gold= confidence=0.5339716399847321\cf0 \
+\cf2 Error: Donna Leon - Vendetta guess=movie gold= confidence=0.9549499911472903\cf0 \
+\cf2 Error: Down From the Mountain guess=movie gold= confidence=0.9707132458038215\cf0 \
+\cf2 Error: Down to You guess=movie gold= confidence=0.9976165581027274\cf0 \
+\cf2 Error: Downpour guess=place gold= confidence=0.9899381881938949\cf0 \
+\cf2 Error: Dr Lucille - Un r?ve pour la vie guess=movie gold= confidence=0.9999999997227697\cf0 \
+\cf2 Error: Dr. T & the Women guess=movie gold= confidence=0.9999873859941414\cf0 \
+\cf2 Error: Dragon Ball Z: The Movie - The World's Strongest guess=movie gold= confidence=0.9999999999996478\cf0 \
+\cf2 Error: Dragonriders of Pern guess=person gold= confidence=0.9900477225347327\cf0 \
+\cf2 Error: Drainiac! guess=place gold= confidence=0.9620778208799379\cf0 \
+\cf2 Error: Drawn from Life guess=movie gold= confidence=0.9967747600692122\cf0 \
+\cf2 Error: Driver 2 guess=movie gold= confidence=0.9591025205750507\cf0 \
+\cf2 Error: Dubbel-?ttan guess=place gold= confidence=0.6469071079001708\cf0 \
+\cf2 Error: Dum guess=movie gold= confidence=0.2923465924951453\cf0 \
+\cf2 Error: D?-me Luz guess=movie gold= confidence=0.856505246977087\cf0 \
+\cf2 Error: ECW: Anarchy Rulz guess=movie gold= confidence=0.9922257130563513\cf0 \
+\cf2 Error: East of West guess=movie gold= confidence=0.9656008969977552\cf0 \
+\cf2 Error: Eerie Valley Appointment guess=place gold= confidence=0.8557274091241007\cf0 \
+\cf2 Error: Ein Apartment zum Verlieben guess=movie gold= confidence=0.999999987119477\cf0 \
+\cf2 Error: Ein Lasterhaftes P?rchen guess=movie gold= confidence=0.9818176683310109\cf0 \
+\cf2 Error: Ein Mensch wie Dieter - Golzower guess=movie gold= confidence=0.9999994855918387\cf0 \
+\cf2 Error: Ein Palast und seine Republik guess=movie gold= confidence=0.9999944892900683\cf0 \
+\cf2 Error: El Astillero guess=movie gold= confidence=0.8580046068470168\cf0 \
+\cf2 Error: El Beso que me diste guess=movie gold= confidence=0.99999999977561\cf0 \
+\cf2 Error: El Irrigador guess=place gold= confidence=0.8029838860089216\cf0 \
+\cf2 Error: Elisas univers guess=movie gold= confidence=0.9963498603573084\cf0 \
+\cf2 Error: Elixir, ?dition sp?ciale guess=movie gold= confidence=0.9927111328875019\cf0 \
+\cf2 Error: Ellas, inocentes o culpables guess=movie gold= confidence=0.9217025253565796\cf0 \
+\cf2 Error: Enas ki enas guess=movie gold= confidence=0.9984867515616306\cf0 \
+\cf2 Error: Enfoir?s en 2000 guess=movie gold= confidence=0.9999775065771395\cf0 \
+\cf2 Error: Enter guess=company gold= confidence=0.33928275924393303\cf0 \
+\cf2 Error: Entertainment Life guess=movie gold= confidence=0.8217722444412746\cf0 \
+\cf2 Error: Entscheidung seines Lebens guess=movie gold= confidence=0.9999946633244057\cf0 \
+\cf2 Error: Epicentre guess=drug gold= confidence=0.4302539458750599\cf0 \
+\cf2 Error: Epoch guess=place gold= confidence=0.5607433865705038\cf0 \
+\cf2 Error: Es geht nicht immer nur um Sex guess=movie gold= confidence=0.9999999999642163\cf0 \
+\cf2 Error: Escaflowne guess=movie gold= confidence=0.9125528286092371\cf0 \
+\cf2 Error: Eugenie Sandler P.I. guess=person gold= confidence=0.9004864778355487\cf0 \
+\cf2 Error: Euro Angels 25: Budapest Booty Fest guess=movie gold= confidence=0.9999979134305342\cf0 \
+\cf2 Error: Eva & Adam - fyra f?delsedagar och ett fiasko guess=movie gold= confidence=0.999999922316902\cf0 \
+\cf2 Error: Extremism Breaks My Balls guess=movie gold= confidence=0.999518314315552\cf0 \
+\cf2 Error: FDS guess=movie gold= confidence=0.2\cf0 \
+\cf2 Error: Faites comme si je n'?tais pas l? guess=movie gold= confidence=0.9999999999999254\cf0 \
+\cf2 Error: Fallout Tactics: Brotherhood of Steel guess=movie gold= confidence=0.9999999999374901\cf0 \
+\cf2 Error: Family Pack guess=movie gold= confidence=0.9786732641019208\cf0 \
+\cf2 Error: Fatboy Slim and Macy Gray: Demons guess=movie gold= confidence=0.9999009253335318\cf0 \
+\cf2 Error: Fa?ade guess=movie gold= confidence=0.7761950304606857\cf0 \
+\cf2 Error: Felix and Lola guess=movie gold= confidence=0.9917886704919373\cf0 \
+\cf2 Error: Ferien in der Heimat guess=movie gold= confidence=0.9997378207261642\cf0 \
+\cf2 Error: Ferm? pour r?novations guess=movie gold= confidence=0.9998300794172692\cf0 \
+\cf2 Error: Fetish Fanatics #14: Girls Who Were Porn's 1st Superstars guess=movie gold= confidence=0.9999999999986836\cf0 \
+\cf2 Error: Feu: L'?nergie guess=place gold= confidence=0.7799852575439977\cf0 \
+\cf2 Error: Fifteen Minutes guess=movie gold= confidence=0.9990281561760227\cf0 \
+\cf2 Error: Finar? tirminaet?ru guess=movie gold= confidence=0.7806411775116013\cf0 \
+\cf2 Error: Fire-Eater guess=movie gold= confidence=0.7133852021134129\cf0 \
+\cf2 Error: Fish guess=place gold= confidence=0.5921456048827178\cf0 \
+\cf2 Error: Fisimatenten guess=movie gold= confidence=0.6898638407576172\cf0 \
+\cf2 Error: Fist Power guess=movie gold= confidence=0.7907239625520032\cf0 \
+\cf2 Error: Flamenco Shoe guess=drug gold= confidence=0.6967350128652773\cf0 \
+\cf2 Error: Flicker guess=movie gold= confidence=0.680051504535221\cf0 \
+\cf2 Error: Flight of the Reindeer guess=movie gold= confidence=0.9999999840912546\cf0 \
+\cf2 Error: Forensic Files guess=movie gold= confidence=0.7987189578490914\cf0 \
+\cf2 Error: Forever Yours guess=movie gold= confidence=0.9657848551219952\cf0 \
+\cf2 Error: Forgive and Forget guess=movie gold= confidence=0.9999815130817816\cf0 \
+\cf2 Error: Fort Boyard - Az Er?d guess=movie gold= confidence=0.999690795208248\cf0 \
+\cf2 Error: Forty Years On Coronation Street guess=movie gold= confidence=0.9979822510939418\cf0 \
+\cf2 Error: Frank Herbert's Dune guess=person gold= confidence=0.9919405612968386\cf0 \
+\cf2 Error: Frankie Goes to Hollywood: Hard On guess=movie gold= confidence=0.9572475755368436\cf0 \
+\cf2 Error: Freddie Mercury, the Untold Story guess=movie gold= confidence=0.9999982438305542\cf0 \
+\cf2 Error: Free Fall guess=movie gold= confidence=0.6775742934457991\cf0 \
+\cf2 Error: Friendly Persuasion: Iranian Cinema After the Revolution guess=movie gold= confidence=0.9999999999999949\cf0 \
+\cf2 Error: From the Big Bang to Tuesday Morning guess=movie gold= confidence=0.9999999999480939\cf0 \
+\cf2 Error: From the Top of the Key guess=movie gold= confidence=0.9999993765816605\cf0 \
+\cf2 Error: Fuera de foco guess=movie gold= confidence=0.9968579543127116\cf0 \
+\cf2 Error: G. guess=movie gold= confidence=0.2\cf0 \
+\cf2 Error: Gaja Gamini guess=movie gold= confidence=0.6680351799812102\cf0 \
+\cf2 Error: Gajes del oficio guess=movie gold= confidence=0.9945761614820549\cf0 \
+\cf2 Error: Gang Bang Angels 7 guess=movie gold= confidence=0.9997389055767569\cf0 \
+\cf2 Error: Garimpeiros guess=place gold= confidence=0.9496629623839092\cf0 \
+\cf2 Error: Gauntlet Legends guess=movie gold= confidence=0.5354723894155866\cf0 \
+\cf2 Error: Gegenseitiges Beobachten: Handy guess=movie gold= confidence=0.999634086779631\cf0 \
+\cf2 Error: George Benson: Absolutely Live guess=movie gold= confidence=0.999624936369994\cf0 \
+\cf2 Error: Georgian Grapes guess=person gold= confidence=0.9120550045334658\cf0 \
+\cf2 Error: Gerry Humphreys: The Loved One guess=movie gold= confidence=0.999998738303233\cf0 \
+\cf2 Error: Gespr?ch im Gebirg guess=movie gold= confidence=0.9596429893614625\cf0 \
+\cf2 Error: Ghosthunter guess=movie gold= confidence=0.7135704549688473\cf0 \
+\cf2 Error: Gilligan's Island: The E! True Hollywood Story guess=movie gold= confidence=0.9999999892981576\cf0 \
+\cf2 Error: Ginostra guess=drug gold= confidence=0.35233149533378993\cf0 \
+\cf2 Error: Giravolte guess=drug gold= confidence=0.8747608052966225\cf0 \
+\cf2 Error: Girls! Girls! Girls! guess=movie gold= confidence=0.9999971800651394\cf0 \
+\cf2 Error: Global Domination guess=movie gold= confidence=0.9944449129565256\cf0 \
+\cf2 Error: Glow guess=movie gold= confidence=0.6059665684814686\cf0 \
+\cf2 Error: God's Army guess=movie gold= confidence=0.9972742441520883\cf0 \
+\cf2 Error: Godzilla Vs. Megaguirus: The G Annihilation Strategy guess=movie gold= confidence=0.9999998841360294\cf0 \
+\cf2 Error: Gongdong gyeongbi guyeok jsa guess=place gold= confidence=0.972576347812521\cf0 \
+\cf2 Error: Goodbye & Hello guess=movie gold= confidence=0.9993843888090199\cf0 \
+\cf2 Error: Granturismo guess=place gold= confidence=0.7717578156225554\cf0 \
+\cf2 Error: Great Idea guess=movie gold= confidence=0.479474599252377\cf0 \
+\cf2 Error: Grind Session guess=movie gold= confidence=0.9888296945204033\cf0 \
+\cf2 Error: Grosse Freiheit - Kleine Freiheit guess=movie gold= confidence=0.8963030517959837\cf0 \
+\cf2 Error: Gro?stadttr?ume guess=place gold= confidence=0.5928317020001218\cf0 \
+\cf2 Error: Haboleshet Hokeret guess=place gold= confidence=0.6264671418807021\cf0 \
+\cf2 Error: Half-Life: Counter-Strike guess=movie gold= confidence=0.9999856086323712\cf0 \
+\cf2 Error: Halfway There guess=drug gold= confidence=0.9574185799024757\cf0 \
+\cf2 Error: Happy Birthday guess=movie gold= confidence=0.9999868378047747\cf0 \
+\cf2 Error: Happy Man guess=movie gold= confidence=0.9996025644557478\cf0 \
+\cf2 Error: Hard Boiled Egg guess=movie gold= confidence=0.5820540887350234\cf0 \
+\cf2 Error: Harem of Madame Osmane guess=movie gold= confidence=0.9973051612576361\cf0 \
+\cf2 Error: Harikomi guess=movie gold= confidence=0.8298620981339081\cf0 \
+\cf2 Error: Hassel - F?rg?rarna guess=place gold= confidence=0.9693835056521276\cf0 \
+\cf2 Error: Head Cheerleader Dead Cheerleader guess=movie gold= confidence=0.9999999954339608\cf0 \
+\cf2 Error: Heimatgeschichten - O Tannenbaum guess=movie gold= confidence=0.6715413343616524\cf0 \
+\cf2 Error: Helicopter guess=person gold= confidence=0.38749550827210294\cf0 \
+\cf2 Error: Here on Earth guess=movie gold= confidence=0.9865512351145619\cf0 \
+\cf2 Error: Highway Melody guess=movie gold= confidence=0.9997585746910269\cf0 \
+\cf2 Error: Hij & Julia guess=movie gold= confidence=0.9822207952525451\cf0 \
+\cf2 Error: Hindsight guess=movie gold= confidence=0.9299494321534059\cf0 \
+\cf2 Error: Hitler Meets Christ guess=movie gold= confidence=0.9996692534736413\cf0 \
+\cf2 Error: Home Sweet Home guess=movie gold= confidence=0.9999333924118092\cf0 \
+\cf2 Error: Home VDO guess=movie gold= confidence=0.8555832063180948\cf0 \
+\cf2 Error: Hopkins guess=place gold= confidence=0.3975961973245539\cf0 \
+\cf2 Error: Hot Latin Pussy Adventures 7 guess=movie gold= confidence=0.9999919057743113\cf0 \
+\cf2 Error: Hot Legs guess=movie gold= confidence=0.9834111172913192\cf0 \
+\cf2 Error: Hotaru guess=place gold= confidence=0.4928642912622113\cf0 \
+\cf2 Error: Hotellet guess=movie gold= confidence=0.6329644619509796\cf0 \
+\cf2 Error: House of Luk guess=movie gold= confidence=0.9977608146678718\cf0 \
+\cf2 Error: Humbert guess=place gold= confidence=0.9317293115508443\cf0 \
+\cf2 Error: H?nden p? hjertet guess=movie gold= confidence=0.9998543405365451\cf0 \
+\cf2 Error: H?llische Nachbarn - Chaos im Hotel guess=movie gold= confidence=0.9999999603455793\cf0 \
+\cf2 Error: I Know I'll See Your Face Again guess=movie gold= confidence=0.9999988878022481\cf0 \
+\cf2 Error: I Prefer the Sound of the Sea guess=movie gold= confidence=0.9999993411698962\cf0 \
+\cf2 Error: I Spike guess=movie gold= confidence=0.8492701852361334\cf0 \
+\cf2 Error: IIFA Awards guess=movie gold= confidence=0.7970088794378295\cf0 \
+\cf2 Error: Ich kaufe mir einen Mann guess=movie gold= confidence=0.999983018261589\cf0 \
+\cf2 Error: Il Cielo cade guess=movie gold= confidence=0.9901412622023775\cf0 \
+\cf2 Error: Il Fratello minore guess=person gold= confidence=0.5427402160473763\cf0 \
+\cf2 Error: In Appartment Buildings People Are Crazy About Music guess=movie gold= confidence=0.9999995650091212\cf0 \
+\cf2 Error: In Flagrante guess=movie gold= confidence=0.9906344133196434\cf0 \
+\cf2 Error: In goede aarde: Yesterday guess=movie gold= confidence=0.9999697496940994\cf0 \
+\cf2 Error: In the Wings guess=movie gold= confidence=0.9999986201182998\cf0 \
+\cf2 Error: Indifference guess=place gold= confidence=0.9399460533764735\cf0 \
+\cf2 Error: Ind?pendance Cha Cha guess=person gold= confidence=0.6988381196540666\cf0 \
+\cf2 Error: Initiations 2 guess=movie gold= confidence=0.9984201943467851\cf0 \
+\cf2 Error: Innocents guess=movie gold= confidence=0.94430274976675\cf0 \
+\cf2 Error: Ins?parables guess=movie gold= confidence=0.9482487950788249\cf0 \
+\cf2 Error: Intimate Portrait: Janis Joplin guess=movie gold= confidence=0.9999989097571401\cf0 \
+\cf2 Error: Intimate Portrait: Madeline Kahn guess=movie gold= confidence=0.9999999972747676\cf0 \
+\cf2 Error: Inventario balcanico guess=movie gold= confidence=0.9992078903681594\cf0 \
+\cf2 Error: Isaac Asimov's Nightfall guess=movie gold= confidence=0.9157563371250975\cf0 \
+\cf2 Error: Jaaaaam guess=drug gold= confidence=0.33425306644898894\cf0 \
+\cf2 Error: Jarrett & Labonte Stock Car Racing guess=movie gold= confidence=0.9984734903313945\cf0 \
+\cf2 Error: Je werk of je leven: Hoe lang moet jij nog? guess=movie gold= confidence=0.9999999993819472\cf0 \
+\cf2 Error: Jersey Guy guess=person gold= confidence=0.9583195400930303\cf0 \
+\cf2 Error: John Henry guess=person gold= confidence=0.9998302206988985\cf0 \
+\cf2 Error: John and Yoko's Year of Peace guess=movie gold= confidence=0.9999999155640168\cf0 \
+\cf2 Error: Joining the Dots guess=movie gold= confidence=0.99999472430949\cf0 \
+\cf2 Error: Jojo la frite guess=movie gold= confidence=0.9719494775136556\cf0 \
+\cf2 Error: Joyeux No?l, Rachid guess=movie gold= confidence=0.992277048727603\cf0 \
+\cf2 Error: Julien l'apprenti guess=movie gold= confidence=0.9934190489226663\cf0 \
+\cf2 Error: Jungle guess=place gold= confidence=0.954026306774624\cf0 \
+\cf2 Error: Junk n da Trunk guess=movie gold= confidence=0.3332189736064155\cf0 \
+\cf2 Error: Just an Ordinary Day guess=movie gold= confidence=0.9994096102308793\cf0 \
+\cf2 Error: Justice in Wonderland guess=movie gold= confidence=0.9998939342284197\cf0 \
+\cf2 Error: Kahin Pyaar Na Ho Jaaye guess=movie gold= confidence=0.9950096775385168\cf0 \
+\cf2 Error: Kaliber Deluxe guess=company gold= confidence=0.863351840614131\cf0 \
+\cf2 Error: Kamen Rider Kuuga guess=person gold= confidence=0.5856846460471142\cf0 \
+\cf2 Error: Kids Say the Funniest Things guess=movie gold= confidence=0.9999887249011827\cf0 \
+\cf2 Error: Kingdom of Poet O guess=movie gold= confidence=0.9852132364333989\cf0 \
+\cf2 Error: Kippour guess=place gold= confidence=0.8668338245993609\cf0 \
+\cf2 Error: Kiri Maori guess=person gold= confidence=0.6808059835826817\cf0 \
+\cf2 Error: Kleistoi dromoi guess=movie gold= confidence=0.968421858333961\cf0 \
+\cf2 Error: Kom?di?sok guess=movie gold= confidence=0.4350675916275202\cf0 \
+\cf2 Error: Krajinka guess=person gold= confidence=0.4018634533875051\cf0 \
+\cf2 Error: Kunwara guess=movie gold= confidence=0.7868538629026681\cf0 \
+\cf2 Error: Kurosufai? guess=drug gold= confidence=0.8844402634496861\cf0 \
+\cf2 Error: Kurukshetra guess=place gold= confidence=0.7991897852043599\cf0 \
+\cf2 Error: L'Amour, l'argent, l'amour guess=movie gold= confidence=0.9999543102629223\cf0 \
+\cf2 Error: L'Attrape-r?ves guess=drug gold= confidence=0.41667250182063903\cf0 \
+\cf2 Error: La Confusion des genres guess=movie gold= confidence=0.9995123246354296\cf0 \
+\cf2 Error: La Fausse suivante guess=movie gold= confidence=0.999928468832225\cf0 \
+\cf2 Error: La La?que guess=movie gold= confidence=0.7846585654400743\cf0 \
+\cf2 Error: La Moderna poesia guess=movie gold= confidence=0.9999856223498258\cf0 \
+\cf2 Error: La Pomme, la figue et l'amande guess=movie gold= confidence=0.9999999999979329\cf0 \
+\cf2 Error: La Precisione del caso guess=movie gold= confidence=0.9999256733129968\cf0 \
+\cf2 Error: La Proc guess=movie gold= confidence=0.700226664309559\cf0 \
+\cf2 Error: La Revancha guess=movie gold= confidence=0.6318151360799216\cf0 \
+\cf2 Error: La Traviata ? Paris guess=movie gold= confidence=0.9992588891475349\cf0 \
+\cf2 Error: La Vache et le pr?sident guess=movie gold= confidence=0.9999999994666618\cf0 \
+\cf2 Error: La Villa guess=place gold= confidence=0.9891464576162656\cf0 \
+\cf2 Error: La bloc oamenii mor dupa muzica guess=movie gold= confidence=0.9999997645402477\cf0 \
+\cf2 Error: Lafanmi Selavi guess=person gold= confidence=0.5191238847927879\cf0 \
+\cf2 Error: Lao tou guess=movie gold= confidence=0.5481022282848051\cf0 \
+\cf2 Error: Last Ball guess=movie gold= confidence=0.7702698016895262\cf0 \
+\cf2 Error: Last Wedding guess=place gold= confidence=0.5644688652348324\cf0 \
+\cf2 Error: Latin Heat Inn Exile guess=company gold= confidence=0.9452411115048062\cf0 \
+\cf2 Error: Laughter in the Dark guess=movie gold= confidence=0.9999999225218285\cf0 \
+\cf2 Error: Lawrence Melm guess=person gold= confidence=0.9963007159684489\cf0 \
+\cf2 Error: Le Cercle de Babel guess=movie gold= confidence=0.9999434386531216\cf0 \
+\cf2 Error: Le Chapeau guess=place gold= confidence=0.5754013196184867\cf0 \
+\cf2 Error: Le Chien vert guess=movie gold= confidence=0.9970557701148108\cf0 \
+\cf2 Error: Le Giraffe guess=movie gold= confidence=0.9995980494127985\cf0 \
+\cf2 Error: Le Glandeur guess=movie gold= confidence=0.7476196711970787\cf0 \
+\cf2 Error: Le Harem de Mme Osmane guess=movie gold= confidence=0.9945995855182325\cf0 \
+\cf2 Error: Le Larbin guess=movie gold= confidence=0.5130368950175606\cf0 \
+\cf2 Error: Le Pont du trieur guess=movie gold= confidence=0.9970333370352221\cf0 \
+\cf2 Error: Le Secret guess=movie gold= confidence=0.9966148255215889\cf0 \
+\cf2 Error: Le V?lo de Ghislain Lambert guess=person gold= confidence=0.9854983307106338\cf0 \
+\cf2 Error: Leg Up guess=movie gold= confidence=0.9281035440721951\cf0 \
+\cf2 Error: Legacy of a Kidnapping: Lindbergh and the Triumph of the Tabloids guess=movie gold= confidence=1.0\cf0 \
+\cf2 Error: Les Autres filles guess=movie gold= confidence=0.9302235333292254\cf0 \
+\cf2 Error: Les Belles histoires des Pays-d'en-Haut guess=movie gold= confidence=0.9999033262271981\cf0 \
+\cf2 Error: Les Portes de la gloire guess=movie gold= confidence=0.9797400698551051\cf0 \
+\cf2 Error: Les Soeurs Lumi?re guess=place gold= confidence=0.6859476325241071\cf0 \
+\cf2 Error: Les Yeux ferm?s guess=movie gold= confidence=0.7081455437039964\cf0 \
+\cf2 Error: Lewd Conduct 9 guess=movie gold= confidence=0.49904768856731\cf0 \
+\cf2 Error: Leyendas de fuego guess=movie gold= confidence=0.9999713511070493\cf0 \
+\cf2 Error: Le?ons de t?n?bres guess=movie gold= confidence=0.9987397935188647\cf0 \
+\cf2 Error: Lian zhan chongsheng guess=movie gold= confidence=0.9995210118003427\cf0 \
+\cf2 Error: LiebesLuder guess=movie gold= confidence=0.35627421100074913\cf0 \
+\cf2 Error: Lies... In Love guess=movie gold= confidence=0.9999994609607902\cf0 \
+\cf2 Error: Life Force guess=movie gold= confidence=0.9655668294401362\cf0 \
+\cf2 Error: Life with Big Cats guess=movie gold= confidence=0.9999378871610334\cf0 \
+\cf2 Error: Lights, Camera, War! guess=movie gold= confidence=0.9999823249177658\cf0 \
+\cf2 Error: Ligne 208 guess=drug gold= confidence=0.7837513948860354\cf0 \
+\cf2 Error: Lily and the Secret Planting guess=movie gold= confidence=0.9999999995042035\cf0 \
+\cf2 Error: Lion of Oz guess=movie gold= confidence=0.6838618316194753\cf0 \
+\cf2 Error: Live Free or Die guess=movie gold= confidence=0.9999873913665183\cf0 \
+\cf2 Error: Lomalla guess=place gold= confidence=0.9254127604415144\cf0 \
+\cf2 Error: Love Inventory guess=movie gold= confidence=0.9996230365572865\cf0 \
+\cf2 Error: Love at First Sight guess=movie gold= confidence=0.9999990276034986\cf0 \
+\cf2 Error: Luciano's Face Up Ass Down guess=movie gold= confidence=0.9999999326569906\cf0 \
+\cf2 Error: Lucky 13 guess=movie gold= confidence=0.9993518905183333\cf0 \
+\cf2 Error: Luftpiraten - 113 Passagiere in Todesangst guess=movie gold= confidence=0.9999999998414818\cf0 \
+\cf2 Error: Luna salvaje guess=movie gold= confidence=0.9997885765300092\cf0 \
+\cf2 Error: Luz guess=movie gold= confidence=0.28752134820019865\cf0 \
+\cf2 Error: L?zaro de Tormes guess=movie gold= confidence=0.7780361390076421\cf0 \
+\cf2 Error: M. zkt. vr. guess=place gold= confidence=0.6181730749979749\cf0 \
+\cf2 Error: Mabrouk Again guess=movie gold= confidence=0.9840005278575913\cf0 \
+\cf2 Error: Maestrale guess=movie gold= confidence=0.5276112904000404\cf0 \
+\cf2 Error: Mamotte agetai guess=movie gold= confidence=0.9996158379902387\cf0 \
+\cf2 Error: Marco guess=drug gold= confidence=0.6255683884963177\cf0 \
+\cf2 Error: Margaret: The Last Real Princess guess=movie gold= confidence=0.9989324316515922\cf0 \
+\cf2 Error: Marriage Acts guess=movie gold= confidence=0.9512316242735657\cf0 \
+\cf2 Error: Marriage Prep guess=place gold= confidence=0.8067811110948011\cf0 \
+\cf2 Error: Marrying Out guess=movie gold= confidence=0.998768431704949\cf0 \
+\cf2 Error: Masked Rider Kuuga guess=movie gold= confidence=0.6402274291427692\cf0 \
+\cf2 Error: Mayhem guess=place gold= confidence=0.6875189169500838\cf0 \
+\cf2 Error: Me Jane guess=movie gold= confidence=0.6714592683896984\cf0 \
+\cf2 Error: Mega Man X5 guess=person gold= confidence=0.5146339396051857\cf0 \
+\cf2 Error: Mein Leben geh?rt mir guess=movie gold= confidence=0.999962863829244\cf0 \
+\cf2 Error: Men of Honor guess=movie gold= confidence=0.7215701298731569\cf0 \
+\cf2 Error: Menunggu pelangi guess=movie gold= confidence=0.5929366204090364\cf0 \
+\cf2 Error: Meseaut? guess=drug gold= confidence=0.41194648332307354\cf0 \
+\cf2 Error: Mexico City guess=company gold= confidence=0.5400494474279758\cf0 \
+\cf2 Error: Mi amigo guess=movie gold= confidence=0.8954606606365683\cf0 \
+\cf2 Error: Milch und Honig aus Rotfront guess=movie gold= confidence=0.963115636067264\cf0 \
+\cf2 Error: Militia guess=movie gold= confidence=0.48658334432646927\cf0 \
+\cf2 Error: Millevaches guess=place gold= confidence=0.9890818451473212\cf0 \
+\cf2 Error: Miss Rumphius guess=movie gold= confidence=0.9861853655328654\cf0 \
+\cf2 Error: Missing Pieces guess=movie gold= confidence=0.9996360342675502\cf0 \
+\cf2 Error: Mission Improbable guess=movie gold= confidence=0.8527660877684862\cf0 \
+\cf2 Error: Mission: Impossible II guess=movie gold= confidence=0.9999954631048326\cf0 \
+\cf2 Error: Misstoestanden guess=place gold= confidence=0.9569828566946484\cf0 \
+\cf2 Error: Mom's Got a Date with a Vampire guess=movie gold= confidence=0.9999999999799161\cf0 \
+\cf2 Error: Monica guess=place gold= confidence=0.8149719799699916\cf0 \
+\cf2 Error: Moosh guess=person gold= confidence=0.6350540244072194\cf0 \
+\cf2 Error: Moral Court guess=movie gold= confidence=0.8375634177114075\cf0 \
+\cf2 Error: Mord im Swingerclub guess=movie gold= confidence=0.9887137649765277\cf0 \
+\cf2 Error: More Best Of Dirty Debutantes 13: Lovin' Spoonfuls guess=movie gold= confidence=0.9999999999951972\cf0 \
+\cf2 Error: Most Promising Young Actress guess=movie gold= confidence=0.9891833434658409\cf0 \
+\cf2 Error: Motorcycle guess=movie gold= confidence=0.9789064755161733\cf0 \
+\cf2 Error: Mounted by the Gods guess=movie gold= confidence=0.9893986189553162\cf0 \
+\cf2 Error: Mr. Hughes guess=person gold= confidence=0.5608611607333881\cf0 \
+\cf2 Error: Mr. Wong guess=movie gold= confidence=0.9421457077706539\cf0 \
+\cf2 Error: Mudo mundo guess=movie gold= confidence=0.47331056685848294\cf0 \
+\cf2 Error: My African Diary guess=movie gold= confidence=0.9999502454319117\cf0 \
+\cf2 Error: My Generation guess=movie gold= confidence=0.9998397467026723\cf0 \
+\cf2 Error: My Only Saving Grace guess=movie gold= confidence=0.9997713984720562\cf0 \
+\cf2 Error: Mysterious Object at Noon guess=movie gold= confidence=0.9896600259718242\cf0 \
+\cf2 Error: Necro Files 2 guess=movie gold= confidence=0.9973108091537667\cf0 \
+\cf2 Error: Neil Young: Silver and Gold guess=movie gold= confidence=0.9999935548715948\cf0 \
+\cf2 Error: Nessundorma guess=movie gold= confidence=0.8733805838100912\cf0 \
+\cf2 Error: Neujahrskonzert der Wiener Philharmoniker 2000 guess=movie gold= confidence=0.8589063801926878\cf0 \
+\cf2 Error: New World Order: Somewhere in Africa guess=movie gold= confidence=0.9999999615389745\cf0 \
+\cf2 Error: Next Friday guess=movie gold= confidence=0.996025137391599\cf0 \
+\cf2 Error: Nightwalker: Midnight Detective guess=movie gold= confidence=0.9999810539560713\cf0 \
+\cf2 Error: Nihon kuroshakai guess=movie gold= confidence=0.9960575375744187\cf0 \
+\cf2 Error: Nikita Blues guess=movie gold= confidence=0.9698518810916188\cf0 \
+\cf2 Error: Nine Queens guess=movie gold= confidence=0.9978612000359744\cf0 \
+\cf2 Error: Ningen no kuzu guess=movie gold= confidence=0.9987705551702785\cf0 \
+\cf2 Error: Nitwit Predelick guess=drug gold= confidence=0.8693277938210182\cf0 \
+\cf2 Error: No Place to Go guess=movie gold= confidence=0.9953061677260368\cf0 \
+\cf2 Error: Noites guess=movie gold= confidence=0.5236301327445189\cf0 \
+\cf2 Error: North Pole # 19 guess=movie gold= confidence=0.9665184279363215\cf0 \
+\cf2 Error: Nova: Lost on Everest guess=movie gold= confidence=0.9998441811701168\cf0 \
+\cf2 Error: Now or Never guess=movie gold= confidence=0.9998932538451261\cf0 \
+\cf2 Error: Numero Bruno guess=person gold= confidence=0.928067551270091\cf0 \
+\cf2 Error: Nutty Professor II: The Klumps guess=movie gold= confidence=0.9973410223185329\cf0 \
+\cf2 Error: N?r m?rket er forbi guess=movie gold= confidence=0.8942875611381548\cf0 \
+\cf2 Error: O Delfim guess=company gold= confidence=0.4606243050965956\cf0 \
+\cf2 Error: O Fantasma guess=movie gold= confidence=0.9539686278503294\cf0 \
+\cf2 Error: O Fato guess=movie gold= confidence=0.7251652180977586\cf0 \
+\cf2 Error: O Sonho de Rose - 10 Anos Depois guess=movie gold= confidence=0.9999942007245768\cf0 \
+\cf2 Error: Obra maestra guess=movie gold= confidence=0.997329994732294\cf0 \
+\cf2 Error: Occidente guess=movie gold= confidence=0.9191394888412148\cf0 \
+\cf2 Error: Oliver i Olivera guess=movie gold= confidence=0.9915937521466676\cf0 \
+\cf2 Error: Ol?! guess=movie gold= confidence=0.41305582591997975\cf0 \
+\cf2 Error: On Grandma guess=person gold= confidence=0.36812404131209064\cf0 \
+\cf2 Error: On the Road guess=movie gold= confidence=0.9999419475942629\cf0 \
+\cf2 Error: Only Living Boy in NY guess=movie gold= confidence=0.9999982292124416\cf0 \
+\cf2 Error: Open Return guess=movie gold= confidence=0.9248836554169454\cf0 \
+\cf2 Error: Open Wide and Say Ahh! 6 guess=movie gold= confidence=0.9998786686329756\cf0 \
+\cf2 Error: Opening the Tombs of the Golden Mummies: Live guess=movie gold= confidence=0.9999999999962418\cf0 \
+\cf2 Error: Ordeals of Love on the Great Lakes guess=movie gold= confidence=0.9999999999997325\cf0 \
+\cf2 Error: Orgelkonspirat?rerna guess=movie gold= confidence=0.9999992014784604\cf0 \
+\cf2 Error: Orientations: Chris Doyle - Stirred But Not Shaken guess=movie gold= confidence=0.999998906056761\cf0 \
+\cf2 Error: Os Acrobatas da Pedra Rolada guess=movie gold= confidence=0.6159221055126619\cf0 \
+\cf2 Error: Os Tr?s Zuretas guess=movie gold= confidence=0.7333251223424773\cf0 \
+\cf2 Error: Osobennosti natsionalnoj okhoty v zimnij period guess=movie gold= confidence=0.9999999990552402\cf0 \
+\cf2 Error: Other Girls guess=movie gold= confidence=0.9076738506317623\cf0 \
+\cf2 Error: Our Journey guess=place gold= confidence=0.9437538935083409\cf0 \
+\cf2 Error: Our Song guess=movie gold= confidence=0.9977082793213627\cf0 \
+\cf2 Error: Our Years guess=movie gold= confidence=0.9268328173012333\cf0 \
+\cf2 Error: Ouvri?res du monde guess=movie gold= confidence=0.9960557826660429\cf0 \
+\cf2 Error: Pajama Party guess=person gold= confidence=0.6905835927555829\cf0 \
+\cf2 Error: Palavra e Utopia guess=movie gold= confidence=0.9942165207292867\cf0 \
+\cf2 Error: Pandaemonium guess=movie gold= confidence=0.8455669163347309\cf0 \
+\cf2 Error: Pansion za kucheta guess=movie gold= confidence=0.998113785254693\cf0 \
+\cf2 Error: Passage du milieu guess=movie gold= confidence=0.9993357556582562\cf0 \
+\cf2 Error: Peepers guess=movie gold= confidence=0.8733416941911355\cf0 \
+\cf2 Error: Peroxide Passion guess=movie gold= confidence=0.95450032783838\cf0 \
+\cf2 Error: Persian Series #6 guess=movie gold= confidence=0.9875286389447231\cf0 \
+\cf2 Error: Persian Series #7 guess=movie gold= confidence=0.9875286389447231\cf0 \
+\cf2 Error: Pes?rikko guess=movie gold= confidence=0.9286753272093629\cf0 \
+\cf2 Error: Petite ch?rie guess=movie gold= confidence=0.9959684704793009\cf0 \
+\cf2 Error: Pettson och Findus - Kattonauten guess=movie gold= confidence=0.9102600174389314\cf0 \
+\cf2 Error: Phones guess=movie gold= confidence=0.8789820023457577\cf0 \
+\cf2 Error: Pieni pyhiinvaellus guess=person gold= confidence=0.7632394229478311\cf0 \
+\cf2 Error: Plain Love III guess=movie gold= confidence=0.672049794668689\cf0 \
+\cf2 Error: Plaits guess=movie gold= confidence=0.5936508998035762\cf0 \
+\cf2 Error: Plastic Castles guess=movie gold= confidence=0.866672327511968\cf0 \
+\cf2 Error: Plugged In guess=movie gold= confidence=0.7856346479468935\cf0 \
+\cf2 Error: Pok?mon: The Movie 2000 guess=movie gold= confidence=0.9999999999851266\cf0 \
+\cf2 Error: Pok?mon: Vol. 18: Water Blast guess=movie gold= confidence=0.9999986052189441\cf0 \
+\cf2 Error: Polizeiruf 110 - Bruderliebe guess=movie gold= confidence=0.9999997369661244\cf0 \
+\cf2 Error: Polizeiruf 110 - La Paloma guess=movie gold= confidence=0.9999792793230535\cf0 \
+\cf2 Error: Pop Beat Killers guess=movie gold= confidence=0.999981375567476\cf0 \
+\cf2 Error: Poppuguruupu Koroshiya guess=movie gold= confidence=0.9000909195800902\cf0 \
+\cf2 Error: Posledn? vecera guess=movie gold= confidence=0.9997238427675692\cf0 \
+\cf2 Error: Postcards From Paradise Park guess=movie gold= confidence=0.9999355046120029\cf0 \
+\cf2 Error: Prison Life guess=movie gold= confidence=0.9864926274556594\cf0 \
+\cf2 Error: Prison of the Dead guess=movie gold= confidence=0.9998809284728407\cf0 \
+\cf2 Error: Private Vignettes #1 guess=movie gold= confidence=0.9943939437488528\cf0 \
+\cf2 Error: Pro Skater 2 guess=company gold= confidence=0.5641651760821741\cf0 \
+\cf2 Error: Proof of Life guess=movie gold= confidence=0.9999426986944142\cf0 \
+\cf2 Error: Protagonisti, i diritti del '900 guess=movie gold= confidence=0.9988299148237035\cf0 \
+\cf2 Error: Public Canings guess=movie gold= confidence=0.387804461266255\cf0 \
+\cf2 Error: Putting It Together guess=movie gold= confidence=0.9999686672327028\cf0 \
+\cf2 Error: P?ratlan guess=place gold= confidence=0.5003633908733557\cf0 \
+\cf2 Error: Quand j'?tais petit guess=movie gold= confidence=0.999986433458816\cf0 \
+\cf2 Error: Queens for a Night guess=movie gold= confidence=0.9999996852245222\cf0 \
+\cf2 Error: Quotation Marks guess=movie gold= confidence=0.8097492877424585\cf0 \
+\cf2 Error: RLH guess=movie gold= confidence=0.2\cf0 \
+\cf2 Error: RPG Maker guess=person gold= confidence=0.788470722917643\cf0 \
+\cf2 Error: Race for the Poles guess=movie gold= confidence=0.999999980275385\cf0 \
+\cf2 Error: Rancid Aluminium guess=movie gold= confidence=0.7284035850535616\cf0 \
+\cf2 Error: Raped by an Angel 5: The Final Judgement guess=movie gold= confidence=0.9999999999995401\cf0 \
+\cf2 Error: Rat guess=movie gold= confidence=0.41353230869517266\cf0 \
+\cf2 Error: Rat uzivo guess=movie gold= confidence=0.8602666395948942\cf0 \
+\cf2 Error: Real Rakeovers guess=movie gold= confidence=0.9964806874338213\cf0 \
+\cf2 Error: Real Things guess=movie gold= confidence=0.9486569785327241\cf0 \
+\cf2 Error: Rebus: The Hanging Garden guess=movie gold= confidence=0.9999975705665985\cf0 \
+\cf2 Error: Rejseholdet guess=drug gold= confidence=0.49774799847349105\cf0 \
+\cf2 Error: Ren jian si yue tian guess=movie gold= confidence=0.9979592966118755\cf0 \
+\cf2 Error: Requiem for a Dream guess=movie gold= confidence=0.9999979348801498\cf0 \
+\cf2 Error: Restless guess=place gold= confidence=0.5642160116781699\cf0 \
+\cf2 Error: Ridge Racer 5 guess=movie gold= confidence=0.9979902616310916\cf0 \
+\cf2 Error: Ristningar guess=place gold= confidence=0.7164321800485661\cf0 \
+\cf2 Error: Rituals and Resolutions guess=movie gold= confidence=0.9999985804142558\cf0 \
+\cf2 Error: Roadblocks guess=movie gold= confidence=0.9337698033852432\cf0 \
+\cf2 Error: Robert's Rescue guess=drug gold= confidence=0.5555168069215586\cf0 \
+\cf2 Error: Rocco: Animal Trainer 3 guess=movie gold= confidence=0.9999985381195383\cf0 \
+\cf2 Error: Rock Story guess=movie gold= confidence=0.9510135092152212\cf0 \
+\cf2 Error: Rock, Paper, Scissors guess=movie gold= confidence=0.9765470774385613\cf0 \
+\cf2 Error: Rocks at Whiskey Trench guess=movie gold= confidence=0.9800149670808773\cf0 \
+\cf2 Error: Rocky Horror 25: Anniversary Special guess=movie gold= confidence=0.9999722312263731\cf0 \
+\cf2 Error: Romeo and Juliet guess=movie gold= confidence=0.9998252009342385\cf0 \
+\cf2 Error: Rosamunde Pilcher - Die Rose von Kerrymore guess=movie gold= confidence=0.7597719957761033\cf0 \
+\cf2 Error: Rosamunde Pilcher - Zeit der Erkenntnis guess=movie gold= confidence=0.9999935728406362\cf0 \
+\cf2 Error: Rosamunde Pilcher - Zerrissene Herzen guess=movie gold= confidence=0.9850209957664801\cf0 \
+\cf2 Error: Running From Shadows guess=movie gold= confidence=0.9994100212852781\cf0 \
+\cf2 Error: Rupert Steckil: Genesis of a Filmmaker guess=movie gold= confidence=0.9968388718288292\cf0 \
+\cf2 Error: Russia's Wonder Children guess=movie gold= confidence=0.9999838070884968\cf0 \
+\cf2 Error: Russische Hochzeit guess=movie gold= confidence=0.9986965363025426\cf0 \
+\cf2 Error: Russo guess=movie gold= confidence=0.5653073787070306\cf0 \
+\cf2 Error: S Club 7: Artistic Differences guess=movie gold= confidence=0.9999880403581451\cf0 \
+\cf2 Error: Sabor a ti guess=movie gold= confidence=0.9997376310240738\cf0 \
+\cf2 Error: Sam the Man guess=movie gold= confidence=0.9983515499328836\cf0 \
+\cf2 Error: San tau chi saidoi guess=movie gold= confidence=0.9999822053593079\cf0 \
+\cf2 Error: Sandra et les siens guess=movie gold= confidence=0.9999873135173074\cf0 \
+\cf2 Error: Santana: Supernatural Live guess=drug gold= confidence=0.5789642149824398\cf0 \
+\cf2 Error: Satan's School for Girls guess=movie gold= confidence=0.9993464224479918\cf0 \
+\cf2 Error: Savage Garden: Superstars and Cannonballs: Live and on Tour in Australia guess=movie gold= confidence=0.9999999999999998\cf0 \
+\cf2 Error: Say You Love Satan guess=person gold= confidence=0.8062441794922764\cf0 \
+\cf2 Error: Sciography guess=drug gold= confidence=0.4401356010092357\cf0 \
+\cf2 Error: Scrappers guess=movie gold= confidence=0.7039268662678551\cf0 \
+\cf2 Error: Sehnsucht nach Jack guess=movie gold= confidence=0.9999243512496697\cf0 \
+\cf2 Error: Sei forte, Maestro guess=movie gold= confidence=0.999996982158081\cf0 \
+\cf2 Error: Selvsvings B?nd p? livet - livet p? b?nd guess=movie gold= confidence=0.9999999999999998\cf0 \
+\cf2 Error: Seom guess=place gold= confidence=0.28251864776459085\cf0 \
+\cf2 Error: Serenades guess=movie gold= confidence=0.626500395266467\cf0 \
+\cf2 Error: Seule avec la guerre guess=movie gold= confidence=0.7672848473456948\cf0 \
+\cf2 Error: Seuls, ensemble guess=place gold= confidence=0.6895798067706508\cf0 \
+\cf2 Error: Seven Hours to Burn guess=movie gold= confidence=0.998921573815516\cf0 \
+\cf2 Error: Seven Little Monsters guess=movie gold= confidence=0.8706553937834167\cf0 \
+\cf2 Error: Sex and the Matrix guess=movie gold= confidence=0.9999983957986708\cf0 \
+\cf2 Error: Shadow of the Blair Witch guess=movie gold= confidence=0.9999981833037256\cf0 \
+\cf2 Error: Shadow of the Vampire guess=movie gold= confidence=0.9999999779913584\cf0 \
+\cf2 Error: Sham guess=place gold= confidence=0.8208529598726455\cf0 \
+\cf2 Error: Shanghai Noon guess=movie gold= confidence=0.5935403541583317\cf0 \
+\cf2 Error: Sharing the Secret guess=movie gold= confidence=0.9999978975748599\cf0 \
+\cf2 Error: Sheep guess=movie gold= confidence=0.9656920463924633\cf0 \
+\cf2 Error: Shikari guess=movie gold= confidence=0.9461573169038751\cf0 \
+\cf2 Error: Si fa presto a dire amore... guess=movie gold= confidence=0.9999999999579745\cf0 \
+\cf2 Error: Sideways guess=movie gold= confidence=0.9804672301107401\cf0 \
+\cf2 Error: Sidney Poitier, One Bright Light guess=movie gold= confidence=0.9294912801646704\cf0 \
+\cf2 Error: Siempre te amar? guess=movie gold= confidence=0.9997297066936524\cf0 \
+\cf2 Error: Sin's Kitchen guess=movie gold= confidence=0.8350768079690843\cf0 \
+\cf2 Error: Siostry guess=place gold= confidence=0.4791241724498118\cf0 \
+\cf2 Error: Skeletons in the Closet guess=movie gold= confidence=0.9999999335850032\cf0 \
+\cf2 Error: Smoke & Mirrors: The Art and Science of Stunts guess=movie gold= confidence=1.0\cf0 \
+\cf2 Error: Snapped guess=movie gold= confidence=0.9658512348229881\cf0 \
+\cf2 Error: Solange es M?nner gibt guess=movie gold= confidence=0.9998809000113994\cf0 \
+\cf2 Error: Song of the Sea Otter guess=movie gold= confidence=0.9999957266245919\cf0 \
+\cf2 Error: Sonntags guess=movie gold= confidence=0.9777626513091201\cf0 \
+\cf2 Error: South guess=place gold= confidence=0.9699950979826765\cf0 \
+\cf2 Error: South Tunnel guess=movie gold= confidence=0.8364449701503271\cf0 \
+\cf2 Error: Spec Ops: Stealth Patrol guess=movie gold= confidence=0.7877153830970454\cf0 \
+\cf2 Error: Spinning Gasing guess=movie gold= confidence=0.9802726570010242\cf0 \
+\cf2 Error: Spoof! guess=drug gold= confidence=0.743749731974248\cf0 \
+\cf2 Error: Spoof! An Insider's Guide to Short Film Success guess=movie gold= confidence=0.9995221266656676\cf0 \
+\cf2 Error: Spotlight on George Takei guess=movie gold= confidence=0.9999997972834601\cf0 \
+\cf2 Error: Star Wars: Episode I - Jedi Power Battles guess=movie gold= confidence=0.9999999999077354\cf0 \
+\cf2 Error: Starforce guess=place gold= confidence=0.9955055796239232\cf0 \
+\cf2 Error: Stars Sing The Beatles guess=movie gold= confidence=0.9999999910848753\cf0 \
+\cf2 Error: Steps to the Stars guess=movie gold= confidence=0.9999953908742928\cf0 \
+\cf2 Error: Sting: The Brand New Day Tour - Live from the Universal Amphitheatre guess=movie gold= confidence=1.0\cf0 \
+\cf2 Error: Stj?rnfall guess=person gold= confidence=0.4973123522494152\cf0 \
+\cf2 Error: Stopar guess=movie gold= confidence=0.5650019202236065\cf0 \
+\cf2 Error: Stranger with a Camera guess=movie gold= confidence=0.9999963042026748\cf0 \
+\cf2 Error: Strangers to Themselves guess=movie gold= confidence=0.986472264777728\cf0 \
+\cf2 Error: Strawberry Flavour guess=drug gold= confidence=0.6898766398192892\cf0 \
+\cf2 Error: Street Love guess=movie gold= confidence=0.9992428772343119\cf0 \
+\cf2 Error: Suckerpunch guess=movie gold= confidence=0.9450056775729022\cf0 \
+\cf2 Error: Supaas torabaraazu guess=movie gold= confidence=0.6361719282216509\cf0 \
+\cf2 Error: Superstar Female Serial Killer guess=movie gold= confidence=0.9747343473588422\cf0 \
+\cf2 Error: Survival of the Fattest guess=movie gold= confidence=0.9999997081731262\cf0 \
+\cf2 Error: Surviving Abyssinia guess=movie gold= confidence=0.9910348271089092\cf0 \
+\cf2 Error: Suzhou he guess=movie gold= confidence=0.9669945818428556\cf0 \
+\cf2 Error: Sweet guess=movie gold= confidence=0.8788072329083627\cf0 \
+\cf2 Error: Sync guess=drug gold= confidence=0.7387186115460702\cf0 \
+\cf2 Error: T'en as? guess=movie gold= confidence=0.594013530321055\cf0 \
+\cf2 Error: T.R.A.X. guess=movie gold= confidence=0.37318853131473034\cf0 \
+\cf2 Error: Taivas tiell? guess=movie gold= confidence=0.8892061916197479\cf0 \
+\cf2 Error: Take It to the Limit guess=movie gold= confidence=0.9999535336734677\cf0 \
+\cf2 Error: Take My Life... Please guess=movie gold= confidence=0.9999998600517539\cf0 \
+\cf2 Error: Tales of an Island guess=movie gold= confidence=0.7773408763026649\cf0 \
+\cf2 Error: Tatort - Chaos guess=movie gold= confidence=0.9991876183657172\cf0 \
+\cf2 Error: Tatort - Mord am Fluss guess=movie gold= confidence=0.998882774010292\cf0 \
+\cf2 Error: Tatort - Tod vor Scharh?rn guess=movie gold= confidence=0.9999802324516239\cf0 \
+\cf2 Error: Team Spirit guess=drug gold= confidence=0.7286438852086591\cf0 \
+\cf2 Error: Teens Get Real guess=movie gold= confidence=0.9355157106894675\cf0 \
+\cf2 Error: Teletubbies: Nursery Rhymes guess=movie gold= confidence=0.9749956452377088\cf0 \
+\cf2 Error: Tempting Fate guess=movie gold= confidence=0.9987609921070442\cf0 \
+\cf2 Error: Tenshi no rakuen guess=movie gold= confidence=0.9999989496689349\cf0 \
+\cf2 Error: Terra Son?mbula guess=movie gold= confidence=0.9421595590298081\cf0 \
+\cf2 Error: Terry Eichler: Beyond Duc My guess=movie gold= confidence=0.9984664886273151\cf0 \
+\cf2 Error: That's Life guess=movie gold= confidence=0.9949763495241508\cf0 \
+\cf2 Error: The American Astronaut guess=movie gold= confidence=0.9996347696373636\cf0 \
+\cf2 Error: The Announcement guess=movie gold= confidence=0.999999863062899\cf0 \
+\cf2 Error: The Barber guess=movie gold= confidence=0.9954033948034281\cf0 \
+\cf2 Error: The Black Meteor guess=movie gold= confidence=0.9999981502550512\cf0 \
+\cf2 Error: The Bread, My Sweet guess=movie gold= confidence=0.999999953625162\cf0 \
+\cf2 Error: The Calling guess=movie gold= confidence=0.999914487453639\cf0 \
+\cf2 Error: The Cave guess=movie gold= confidence=0.999788934043858\cf0 \
+\cf2 Error: The Child guess=movie gold= confidence=0.9861923951194421\cf0 \
+\cf2 Error: The Child and the Soldier guess=movie gold= confidence=0.9999998745963671\cf0 \
+\cf2 Error: The Chippendales Murder guess=movie gold= confidence=0.9998963236992648\cf0 \
+\cf2 Error: The Cindy Margolis Show guess=movie gold= confidence=0.999974252803961\cf0 \
+\cf2 Error: The City of Strangers guess=movie gold= confidence=0.9999987142166786\cf0 \
+\cf2 Error: The Closer You Get guess=movie gold= confidence=0.9999957467777196\cf0 \
+\cf2 Error: The Comedian guess=movie gold= confidence=0.997109604222645\cf0 \
+\cf2 Error: The Corrs: Unplugged guess=movie gold= confidence=0.999841924905553\cf0 \
+\cf2 Error: The Courage to Love guess=movie gold= confidence=0.9999999998066801\cf0 \
+\cf2 Error: The Dark Years guess=movie gold= confidence=0.9999916432328643\cf0 \
+\cf2 Error: The Dave Saint Show guess=movie gold= confidence=0.9999948583749284\cf0 \
+\cf2 Error: The Distinct Smell of Red guess=movie gold= confidence=0.9999775116653002\cf0 \
+\cf2 Error: The Djinn guess=movie gold= confidence=0.9994506695212302\cf0 \
+\cf2 Error: The Etiquette Man guess=movie gold= confidence=0.9999046530374535\cf0 \
+\cf2 Error: The Exhibited guess=movie gold= confidence=0.9861916820373566\cf0 \
+\cf2 Error: The Film Biker guess=movie gold= confidence=0.9999518575558216\cf0 \
+\cf2 Error: The Flunky guess=movie gold= confidence=0.998743173399457\cf0 \
+\cf2 Error: The Flux of Images guess=movie gold= confidence=0.9999308114450141\cf0 \
+\cf2 Error: The Future of War guess=movie gold= confidence=0.9999992843412339\cf0 \
+\cf2 Error: The Gang guess=movie gold= confidence=0.9999863128298547\cf0 \
+\cf2 Error: The Gas Station guess=movie gold= confidence=0.9999383431182819\cf0 \
+\cf2 Error: The Genocide Factor guess=movie gold= confidence=0.904488327108929\cf0 \
+\cf2 Error: The Gods of Times Square guess=movie gold= confidence=0.9999985486058457\cf0 \
+\cf2 Error: The Heart's Root guess=movie gold= confidence=0.9999880822974722\cf0 \
+\cf2 Error: The Hiking Viking guess=movie gold= confidence=0.9999762073772395\cf0 \
+\cf2 Error: The Hollywood Sign guess=movie gold= confidence=0.9999921786336262\cf0 \
+\cf2 Error: The Horror of... guess=movie gold= confidence=0.9999997669071101\cf0 \
+\cf2 Error: The Innocent guess=movie gold= confidence=0.9998193023213644\cf0 \
+\cf2 Error: The John Report with Bob guess=movie gold= confidence=0.9971620927910477\cf0 \
+\cf2 Error: The Journey of Jared Price guess=movie gold= confidence=0.9998578245272625\cf0 \
+\cf2 Error: The King's Guard guess=movie gold= confidence=0.9999957208132708\cf0 \
+\cf2 Error: The Last Buckaroo guess=movie gold= confidence=0.9999967169997785\cf0 \
+\cf2 Error: The Last Musketeer guess=movie gold= confidence=0.999997950400631\cf0 \
+\cf2 Error: The Leatherwoman guess=movie gold= confidence=0.9997287476856165\cf0 \
+\cf2 Error: The Making of Lef guess=movie gold= confidence=0.9999931185034542\cf0 \
+\cf2 Error: The Moving of Sophia Myles guess=movie gold= confidence=0.7928563266946475\cf0 \
+\cf2 Error: The Mystery of Spoon River guess=movie gold= confidence=0.9999901783085099\cf0 \
+\cf2 Error: The Mystery of the Romanovs guess=movie gold= confidence=0.999999996187053\cf0 \
+\cf2 Error: The Near Future guess=movie gold= confidence=0.9998369182490853\cf0 \
+\cf2 Error: The Old Spaghetti Factory guess=movie gold= confidence=0.9999965663961562\cf0 \
+\cf2 Error: The Opponent guess=movie gold= confidence=0.9935069467398892\cf0 \
+\cf2 Error: The Opportunists guess=movie gold= confidence=0.9995163320797067\cf0 \
+\cf2 Error: The Optimists guess=movie gold= confidence=0.9628683758508463\cf0 \
+\cf2 Error: The Passage guess=movie gold= confidence=0.9999052253490387\cf0 \
+\cf2 Error: The Pretenders guess=movie gold= confidence=0.9925044308721535\cf0 \
+\cf2 Error: The Real Flying Tigers guess=movie gold= confidence=0.9999921703039999\cf0 \
+\cf2 Error: The Runaway guess=movie gold= confidence=0.9999999732911714\cf0 \
+\cf2 Error: The Secret guess=movie gold= confidence=0.9999821540287643\cf0 \
+\cf2 Error: The Sopornos guess=movie gold= confidence=0.9994523426236935\cf0 \
+\cf2 Error: The Strange Case of Se?or Computer guess=movie gold= confidence=0.9998857349053342\cf0 \
+\cf2 Error: The Substitute: Failure Is Not an Option guess=movie gold= confidence=0.9999999999999978\cf0 \
+\cf2 Error: The Summer Intern guess=movie gold= confidence=0.9979946560027175\cf0 \
+\cf2 Error: The Summer of the Kavalcutes guess=movie gold= confidence=0.9999999998483179\cf0 \
+\cf2 Error: The Tao of Steve guess=movie gold= confidence=0.8896485145874911\cf0 \
+\cf2 Error: The Tattoo guess=movie gold= confidence=0.9987853091788467\cf0 \
+\cf2 Error: The Theory of Everything guess=movie gold= confidence=0.9999999968428125\cf0 \
+\cf2 Error: The Van Boys guess=movie gold= confidence=0.9982991430395806\cf0 \
+\cf2 Error: The Visit guess=movie gold= confidence=0.9999102562499707\cf0 \
+\cf2 Error: The War Behind the Wire guess=movie gold= confidence=0.9999999999561108\cf0 \
+\cf2 Error: The War Next Door guess=movie gold= confidence=0.9999942097948\cf0 \
+\cf2 Error: The Way of the Birds guess=movie gold= confidence=0.9999999999762907\cf0 \
+\cf2 Error: The Weight of Water guess=movie gold= confidence=0.9999996092852417\cf0 \
+\cf2 Error: The Wog Boy guess=movie gold= confidence=0.9999883376544954\cf0 \
+\cf2 Error: There's Something About Jack 11 guess=movie gold= confidence=0.9999864851290569\cf0 \
+\cf2 Error: They Will Laugh guess=person gold= confidence=0.946650629133553\cf0 \
+\cf2 Error: Things You Can Tell Just by Looking at Her guess=movie gold= confidence=0.9997427376453959\cf0 \
+\cf2 Error: This Is How the World Ends guess=movie gold= confidence=0.9999982024172139\cf0 \
+\cf2 Error: Thomas the Falconer guess=movie gold= confidence=0.993106169833937\cf0 \
+\cf2 Error: Thomson of Arnhem Land guess=person gold= confidence=0.9983494857509393\cf0 \
+\cf2 Error: Tight-Ass Lowriders guess=drug gold= confidence=0.5264058745285625\cf0 \
+\cf2 Error: Time Gentlemen, Please guess=movie gold= confidence=0.9819033947263085\cf0 \
+\cf2 Error: Time of our Lives guess=movie gold= confidence=0.999965215729716\cf0 \
+\cf2 Error: Time to Live guess=movie gold= confidence=0.9999897488066477\cf0 \
+\cf2 Error: Titkos szeret?k guess=movie gold= confidence=0.8836731267957607\cf0 \
+\cf2 Error: Tmavomoudr? svet guess=place gold= confidence=0.9777085687457968\cf0 \
+\cf2 Error: To the End of the Road guess=movie gold= confidence=0.9999999758220208\cf0 \
+\cf2 Error: Together guess=person gold= confidence=0.40935648519587137\cf0 \
+\cf2 Error: Tokyo Raiders guess=movie gold= confidence=0.9996569058699554\cf0 \
+\cf2 Error: Tom Clancy's Rainbow Six guess=movie gold= confidence=0.9999755162851833\cf0 \
+\cf2 Error: Tom Sawyer guess=person gold= confidence=0.9966965439627437\cf0 \
+\cf2 Error: Top Tens guess=movie gold= confidence=0.9779735077177972\cf0 \
+\cf2 Error: Torab al-ghoraba guess=drug gold= confidence=0.7024450737669033\cf0 \
+\cf2 Error: Tout est calme guess=movie gold= confidence=0.9989217123497206\cf0 \
+\cf2 Error: Transcension guess=movie gold= confidence=0.9511450036256116\cf0 \
+\cf2 Error: Travel Daze guess=drug gold= confidence=0.5112275855630337\cf0 \
+\cf2 Error: Traveling Miles: Cassandra Wilson guess=movie gold= confidence=0.9972193304540041\cf0 \
+\cf2 Error: Tre anni guess=movie gold= confidence=0.664066811736911\cf0 \
+\cf2 Error: Trial by Fire guess=movie gold= confidence=0.7235696018653681\cf0 \
+\cf2 Error: Tribute to Alfred Lepetit guess=movie gold= confidence=0.9999961753095806\cf0 \
+\cf2 Error: Trixie guess=drug gold= confidence=0.9895352177858618\cf0 \
+\cf2 Error: True Hollywood Stories: Billionaire Boys Club guess=movie gold= confidence=0.9999985917677157\cf0 \
+\cf2 Error: Trzy szalone zera guess=drug gold= confidence=0.8299502015628141\cf0 \
+\cf2 Error: Turbulence guess=place gold= confidence=0.8312178017076707\cf0 \
+\cf2 Error: Twice the Fun guess=movie gold= confidence=0.9972846666620631\cf0 \
+\cf2 Error: Ultimate Fighting Championship guess=movie gold= confidence=0.9999980198324389\cf0 \
+\cf2 Error: Um Dia na Vida guess=movie gold= confidence=0.9610043509424885\cf0 \
+\cf2 Error: Un Anno in campagna guess=movie gold= confidence=0.9997112610902209\cf0 \
+\cf2 Error: Un Colpo al cuore guess=company gold= confidence=0.5527532028382848\cf0 \
+\cf2 Error: Un enfant, un secret guess=movie gold= confidence=0.9999965031048446\cf0 \
+\cf2 Error: Un possible amour guess=movie gold= confidence=0.9999925488166224\cf0 \
+\cf2 Error: Unauthorized Brady Bunch: The Final Days guess=movie gold= confidence=0.9999972320915622\cf0 \
+\cf2 Error: Une jeune fille ? la fen?tre guess=movie gold= confidence=0.9999993420351058\cf0 \
+\cf2 Error: Une m?re en col?re guess=movie gold= confidence=0.999995993787011\cf0 \
+\cf2 Error: Unreal Ads guess=company gold= confidence=0.5262786755451383\cf0 \
+\cf2 Error: Urmel 2: Faule Tricks auf hoher See guess=movie gold= confidence=0.9999992130036801\cf0 \
+\cf2 Error: Uttara guess=movie gold= confidence=0.8120738544178633\cf0 \
+\cf2 Error: VH-1 to One: The Corrs guess=movie gold= confidence=0.9999946174677224\cf0 \
+\cf2 Error: VH1 Divas 2000: A Tribute to Diana Ross guess=movie gold= confidence=0.9999999999992504\cf0 \
+\cf2 Error: Vamos Chile guess=company gold= confidence=0.522814542596251\cf0 \
+\cf2 Error: Vampires of Sorority Row Part II guess=movie gold= confidence=0.999999269447528\cf0 \
+\cf2 Error: Vanishing Point guess=place gold= confidence=0.8465346304560818\cf0 \
+\cf2 Error: Vendetta guess=movie gold= confidence=0.6192779478396852\cf0 \
+\cf2 Error: Vent de col?re guess=movie gold= confidence=0.9988882405704633\cf0 \
+\cf2 Error: Verboden te zuchten guess=movie gold= confidence=0.9999999579214538\cf0 \
+\cf2 Error: Victor guess=person gold= confidence=0.9186876078810341\cf0 \
+\cf2 Error: Vies guess=movie gold= confidence=0.8473239748016734\cf0 \
+\cf2 Error: Viimeiset mitalit guess=movie gold= confidence=0.9999949426313726\cf0 \
+\cf2 Error: Viktor guess=movie gold= confidence=0.4509325015501802\cf0 \
+\cf2 Error: Violence On Violence guess=movie gold= confidence=0.9985371441766084\cf0 \
+\cf2 Error: Virtuoso guess=movie gold= confidence=0.9757020806711019\cf0 \
+\cf2 Error: Vogelforscher guess=place gold= confidence=0.9999042491321032\cf0 \
+\cf2 Error: WWF No Mercy guess=movie gold= confidence=0.9977222279946193\cf0 \
+\cf2 Error: Waking Mele guess=movie gold= confidence=0.9974545711861637\cf0 \
+\cf2 Error: Wang ming zhi tao guess=movie gold= confidence=0.9999420504211181\cf0 \
+\cf2 Error: Wanna See Me Pee? guess=person gold= confidence=0.5313970298137746\cf0 \
+\cf2 Error: Warpath guess=place gold= confidence=0.538765554521936\cf0 \
+\cf2 Error: Washed Up guess=movie gold= confidence=0.9888509862118599\cf0 \
+\cf2 Error: Welcome to New York guess=movie gold= confidence=0.9999187026963955\cf0 \
+\cf2 Error: What About Me: The Rise of the Nihilist Spasm Band guess=movie gold= confidence=1.0\cf0 \
+\cf2 Error: What Makes a Family guess=movie gold= confidence=0.9999966807164966\cf0 \
+\cf2 Error: Where the Money Is guess=movie gold= confidence=0.9999142762657786\cf0 \
+\cf2 Error: White Lightning guess=movie gold= confidence=0.9357000686138408\cf0 \
+\cf2 Error: Wilder Days guess=movie gold= confidence=0.9953709429418011\cf0 \
+\cf2 Error: Wilder Kaiser - Das Duell guess=movie gold= confidence=0.9999970056618104\cf0 \
+\cf2 Error: Window guess=movie gold= confidence=0.9564734238248275\cf0 \
+\cf2 Error: Winds of Passion guess=movie gold= confidence=0.9999573849595299\cf0 \
+\cf2 Error: With Closed Eyes guess=drug gold= confidence=0.6999010418890141\cf0 \
+\cf2 Error: Wonder Boys guess=movie gold= confidence=0.9951041858849244\cf0 \
+\cf2 Error: Wonderland ...It Ain't guess=movie gold= confidence=0.9999969251989373\cf0 \
+\cf2 Error: Word of Honor guess=movie gold= confidence=0.5964481457118743\cf0 \
+\cf2 Error: Xi yang jing guess=movie gold= confidence=0.9997097213591187\cf0 \
+\cf2 Error: Xian's Finest guess=movie gold= confidence=0.9863957150008564\cf0 \
+\cf2 Error: Y decirte alguna estupidez, por ejemplo, te quiero guess=movie gold= confidence=0.9999999999999996\cf0 \
+\cf2 Error: Yes, Dear guess=movie gold= confidence=0.9881403662666614\cf0 \
+\cf2 Error: Yi jian zhong qing guess=movie gold= confidence=0.9999619898743817\cf0 \
+\cf2 Error: Yo soy as? guess=movie gold= confidence=0.9067808315537929\cf0 \
+\cf2 Error: Yocavil guess=drug gold= confidence=0.931468997733414\cf0 \
+\cf2 Error: You Made It guess=movie gold= confidence=0.9947594410106427\cf0 \
+\cf2 Error: You'll Do guess=movie gold= confidence=0.9128809148482474\cf0 \
+\cf2 Error: Yung wong jik chin guess=movie gold= confidence=0.9948967586107434\cf0 \
+\cf2 Error: Zebralla guess=place gold= confidence=0.7691186267471509\cf0 \
+\cf2 Error: Zir-e poost-e shahr guess=movie gold= confidence=0.704572387120556\cf0 \
+\cf2 Error: Zwei vom Blitz getroffen guess=movie gold= confidence=0.9999686042339725\cf0 \
+\cf2 Error: ?Ja me maaten..! guess=movie gold= confidence=0.9999995622145565\cf0 \
+\cf2 Error: ? ma soeur! guess=movie gold= confidence=0.9998741214563874\cf0 \
+\cf2 Error: ?pouse-moi guess=movie gold= confidence=0.8934492458018103\cf0 \
+\cf2 Error: ?????? ??????????? guess=movie gold= confidence=0.9999999321220551\cf0 \
+\cf2 Error: AEGON N.V. guess=company gold= confidence=0.9331537151194487\cf0 \
+\cf2 Error: ALZA Corporation guess=company gold= confidence=0.999999469664024\cf0 \
+\cf2 Error: AMPCO Pittsburgh Corporation guess=company gold= confidence=0.9998337397262752\cf0 \
+\cf2 Error: AON Corporation guess=company gold= confidence=0.9999999574811469\cf0 \
+\cf2 Error: Abbey National Plc. guess=company gold= confidence=0.9999996762437451\cf0 \
+\cf2 Error: Abercrombie & Fitch guess=movie gold= confidence=0.9952976390439977\cf0 \
+\cf2 Error: Agnico-Eagle Mines Limited guess=person gold= confidence=0.5215264581729953\cf0 \
+\cf2 Error: Airgas On-line guess=movie gold= confidence=0.5520252047682411\cf0 \
+\cf2 Error: Ak Steel Holding Corp guess=company gold= confidence=0.9999647086558677\cf0 \
+\cf2 Error: Alberto Culver Co. guess=person gold= confidence=0.6817298293603659\cf0 \
+\cf2 Error: Amcol International Corporation guess=company gold= confidence=0.999999671574977\cf0 \
+\cf2 Error: American Finl Cap Tr I guess=company gold= confidence=0.9999996511933879\cf0 \
+\cf2 Error: American Home Prods Corp guess=company gold= confidence=0.9999999868836094\cf0 \
+\cf2 Error: American Municipal Term Trust Inc. guess=company gold= confidence=0.9999999999998989\cf0 \
+\cf2 Error: American Retirement Corp. guess=company gold= confidence=0.9999979485146646\cf0 \
+\cf2 Error: Archstone Cmntys Tr guess=place gold= confidence=0.5834552360598627\cf0 \
+\cf2 Error: Arden Realty Inc. guess=company gold= confidence=0.9999999947497934\cf0 \
+\cf2 Error: Asia Pacific Wire & Cable guess=company gold= confidence=0.9964568370203026\cf0 \
+\cf2 Error: Associated Estates Realty Corporation guess=company gold= confidence=0.9999998991809423\cf0 \
+\cf2 Error: Atwood Oceanics Inc. guess=company gold= confidence=0.9999788600003543\cf0 \
+\cf2 Error: BKF Capital Group, Inc. guess=company gold= confidence=0.9999999999968442\cf0 \
+\cf2 Error: BRADY CORP guess=company gold= confidence=0.9997596724452568\cf0 \
+\cf2 Error: BRT Realty Trust. guess=company gold= confidence=0.9999667748303419\cf0 \
+\cf2 Error: Bairnco Corporation guess=company gold= confidence=0.9999981109213172\cf0 \
+\cf2 Error: Bally Total Fitness Holding Corp. guess=company gold= confidence=0.9998014121956809\cf0 \
+\cf2 Error: Battle Mountain Gold Co. guess=company gold= confidence=0.6341494313329193\cf0 \
+\cf2 Error: Battle Mtn Gold Co guess=person gold= confidence=0.4176737052571902\cf0 \
+\cf2 Error: Bay View Capital I guess=company gold= confidence=0.9578761465138743\cf0 \
+\cf2 Error: Beckman Coulter Inc guess=company gold= confidence=0.9998333393307199\cf0 \
+\cf2 Error: Belz Richard guess=person gold= confidence=0.8144281862386968\cf0 \
+\cf2 Error: Berkshire Hathaway Inc guess=company gold= confidence=0.9999685964553732\cf0 \
+\cf2 Error: Best Buy Co. guess=company gold= confidence=0.9997634989650191\cf0 \
+\cf2 Error: Best Foods guess=movie gold= confidence=0.6340765311818788\cf0 \
+\cf2 Error: Blount International Inc. guess=company gold= confidence=0.9999850648282905\cf0 \
+\cf2 Error: Blue Square-Israel Ltd guess=movie gold= confidence=0.9017971296490234\cf0 \
+\cf2 Error: Blyth Industries Inc. guess=company gold= confidence=0.9999999970902556\cf0 \
+\cf2 Error: Bny Cap Ii guess=company gold= confidence=0.9669651194707919\cf0 \
+\cf2 Error: Boulder Total Return Fund Incorporated guess=company gold= confidence=0.999999999988266\cf0 \
+\cf2 Error: Boyd Gaming Corp guess=company gold= confidence=0.9985049094841122\cf0 \
+\cf2 Error: Brandywine Realty Trust guess=company gold= confidence=0.9959744663775127\cf0 \
+\cf2 Error: Bristol Myers Squibb Co guess=person gold= confidence=0.8077190282529569\cf0 \
+\cf2 Error: British Energy Plc guess=company gold= confidence=0.999355510661556\cf0 \
+\cf2 Error: British Steel Plc guess=company gold= confidence=0.9999345463149288\cf0 \
+\cf2 Error: Brush Wellman Inc guess=company gold= confidence=0.9786098229633204\cf0 \
+\cf2 Error: CB Richard Ellis Services Inc. guess=company gold= confidence=0.9991389875656885\cf0 \
+\cf2 Error: CNA Surety Corporation guess=company gold= confidence=0.999519580958425\cf0 \
+\cf2 Error: CVS Corporation guess=company gold= confidence=0.9999998453534826\cf0 \
+\cf2 Error: Cabletron Systems Inc. guess=company gold= confidence=0.9999974048804597\cf0 \
+\cf2 Error: Cablevision Sys Corp guess=company gold= confidence=0.9999445814313337\cf0 \
+\cf2 Error: Canon, Inc. guess=company gold= confidence=0.9999141499022454\cf0 \
+\cf2 Error: Capital Re LLC guess=company gold= confidence=0.9993329102744702\cf0 \
+\cf2 Error: Capital Trust Inc. guess=company gold= confidence=0.999999999999107\cf0 \
+\cf2 Error: Caterpillar Inc. guess=company gold= confidence=0.9999953588494194\cf0 \
+\cf2 Error: Cbl & Associates Properties Inc. guess=company gold= confidence=0.9999999999608119\cf0 \
+\cf2 Error: Centex Corporation guess=company gold= confidence=0.9999940218051651\cf0 \
+\cf2 Error: Ceridian Corporation guess=company gold= confidence=0.999997425601252\cf0 \
+\cf2 Error: Chelsea Property Group, Inc. guess=company gold= confidence=0.9999989959679204\cf0 \
+\cf2 Error: Chris Craft Industries Inc. guess=company gold= confidence=0.9999999902237227\cf0 \
+\cf2 Error: Cigna Investment Securities, Inc. guess=company gold= confidence=0.9999999984356099\cf0 \
+\cf2 Error: Circuit City Stores Inc. guess=company gold= confidence=0.9999814684443324\cf0 \
+\cf2 Error: Coastalcast Corporation guess=company gold= confidence=0.9997579975496174\cf0 \
+\cf2 Error: Colonial Investment Grade Municipal Trust guess=company gold= confidence=0.9999997329957657\cf0 \
+\cf2 Error: Colonial Properties Trust guess=company gold= confidence=0.9999034212229974\cf0 \
+\cf2 Error: Columbus Southern Power Co. guess=company gold= confidence=0.9999999177229814\cf0 \
+\cf2 Error: Comed Financing guess=movie gold= confidence=0.9469274477894163\cf0 \
+\cf2 Error: Comfort Systems USA Inc. guess=company gold= confidence=0.9998016402237289\cf0 \
+\cf2 Error: CompX International Inc. guess=company gold= confidence=0.9999999936586496\cf0 \
+\cf2 Error: Computer Task Group, Incorporated guess=company gold= confidence=0.999999999999026\cf0 \
+\cf2 Error: Consolidated Edison Inc. guess=company gold= confidence=0.9999833187917854\cf0 \
+\cf2 Error: Cooper Cameron Corporation. guess=company gold= confidence=0.9999996380651696\cf0 \
+\cf2 Error: Copene-Petroqu?mica do Nordeste guess=movie gold= confidence=0.7227077320489134\cf0 \
+\cf2 Error: Cornell Companies Inc. guess=company gold= confidence=0.9999999997798789\cf0 \
+\cf2 Error: Cornerstone Propane Partnership L.P. guess=company gold= confidence=0.9997239043446058\cf0 \
+\cf2 Error: Correctional Properties Trust. guess=company gold= confidence=0.999872321190174\cf0 \
+\cf2 Error: Cox Communication Inc. guess=company gold= confidence=0.9999999788736078\cf0 \
+\cf2 Error: Crane Co. guess=company gold= confidence=0.9999453749169831\cf0 \
+\cf2 Error: CryoLife, Inc. guess=company gold= confidence=0.9990520584220784\cf0 \
+\cf2 Error: DTE Energy Co. guess=company gold= confidence=0.999999737365599\cf0 \
+\cf2 Error: Dal Tile International Inc. guess=company gold= confidence=0.9999999620846497\cf0 \
+\cf2 Error: Dan River Inc. guess=company gold= confidence=0.9999997889896266\cf0 \
+\cf2 Error: Delaware Group Dividend & Income Fund, Inc. guess=company gold= confidence=0.999999999999995\cf0 \
+\cf2 Error: Detroit Edison guess=movie gold= confidence=0.9367202790837847\cf0 \
+\cf2 Error: Developers Diversified Realty Corporation. guess=company gold= confidence=0.9999999981970368\cf0 \
+\cf2 Error: Devry, Inc. guess=company gold= confidence=0.99999676196409\cf0 \
+\cf2 Error: Dillards Cap Tr I guess=company gold= confidence=0.999797076121658\cf0 \
+\cf2 Error: Distribuci?n y Servicio (D&S) guess=movie gold= confidence=0.9986799388955756\cf0 \
+\cf2 Error: Dollar Thrifty Automotive Group Inc. guess=company gold= confidence=0.9999999924695316\cf0 \
+\cf2 Error: Downey Financial Corporation. guess=company gold= confidence=0.9999999982529164\cf0 \
+\cf2 Error: Dril-Quip, Inc. guess=company gold= confidence=0.9998095994175862\cf0 \
+\cf2 Error: Dyerburg Corporation. guess=company gold= confidence=0.999963606132559\cf0 \
+\cf2 Error: EIX Trust guess=company gold= confidence=0.9988008572376026\cf0 \
+\cf2 Error: Edison International. guess=company gold= confidence=0.9809315655797065\cf0 \
+\cf2 Error: Ek Chor China Motorcycle Co. guess=company gold= confidence=0.9999307862502658\cf0 \
+\cf2 Error: El Paso Energy Partners L P guess=company gold= confidence=0.9999950058011958\cf0 \
+\cf2 Error: Elsevier N V guess=person gold= confidence=0.895247119340298\cf0 \
+\cf2 Error: Energen Corporation guess=company gold= confidence=0.9999996085459817\cf0 \
+\cf2 Error: Enesco Group Inc. guess=company gold= confidence=0.9999999998766399\cf0 \
+\cf2 Error: Engelhard Corporation guess=company gold= confidence=0.9999957395687314\cf0 \
+\cf2 Error: Enron Corporation guess=company gold= confidence=0.9999999193389502\cf0 \
+\cf2 Error: Entergy Gulf Sts Inc guess=company gold= confidence=0.9999630249528809\cf0 \
+\cf2 Error: Enterprises Products Partners L.P guess=company gold= confidence=0.9999986105101432\cf0 \
+\cf2 Error: Eog Resources Incorporated guess=company gold= confidence=0.9999999942509833\cf0 \
+\cf2 Error: Equitable Res Cap Tr I guess=company gold= confidence=0.9999989122308155\cf0 \
+\cf2 Error: Equities Office Properties Trust guess=company gold= confidence=0.9999998140760821\cf0 \
+\cf2 Error: Espirito Santo Finl Grp S A guess=company gold= confidence=0.9568911724319644\cf0 \
+\cf2 Error: Espirito Santo Overseas Limited guess=company gold= confidence=0.6243730954740483\cf0 \
+\cf2 Error: FDX Corporation. guess=company gold= confidence=0.9999997553711941\cf0 \
+\cf2 Error: FINL SEC ASSURN HLDGS LTD guess=company gold= confidence=0.9994093596073086\cf0 \
+\cf2 Error: FLEETBOSTON FINL CORP guess=company gold= confidence=0.9999977958950712\cf0 \
+\cf2 Error: Fannie Mae guess=person gold= confidence=0.5790121799455654\cf0 \
+\cf2 Error: Fansteel Inc. guess=company gold= confidence=0.9999575790615697\cf0 \
+\cf2 Error: Federal Realty Investment Trust. guess=company gold= confidence=0.999999912187581\cf0 \
+\cf2 Error: Federal Rlty Invt Tr guess=company gold= confidence=0.9999981225713408\cf0 \
+\cf2 Error: Fedl Home Ln Mtg guess=company gold= confidence=0.9298477412620569\cf0 \
+\cf2 Error: First Data Corporation. guess=company gold= confidence=0.9999946997812625\cf0 \
+\cf2 Error: Fleetwood Enterprises Inc. guess=company gold= confidence=0.9999590367416741\cf0 \
+\cf2 Error: Fletcher Challenge Energy Division. guess=company gold= confidence=0.9359292687684005\cf0 \
+\cf2 Error: Fletcher challenge Limited (FFS.A) guess=company gold= confidence=0.9994737807666111\cf0 \
+\cf2 Error: Flowers Industries Inc. guess=company gold= confidence=0.9999999999145733\cf0 \
+\cf2 Error: Flowserve Corporation. guess=company gold= confidence=0.9999938745813648\cf0 \
+\cf2 Error: Fort James Corporation guess=company gold= confidence=0.9999989973531753\cf0 \
+\cf2 Error: Gabelli Equity Tr Inc guess=company gold= confidence=0.9999999998519566\cf0 \
+\cf2 Error: General Chemical Group Inc. guess=company gold= confidence=0.9999999992614664\cf0 \
+\cf2 Error: General Mtrs Cap Tr D guess=company gold= confidence=0.9999981145411706\cf0 \
+\cf2 Error: Giant Industries Inc. guess=company gold= confidence=0.9999999993569926\cf0 \
+\cf2 Error: Global Power Equipment Group Inc. guess=company gold= confidence=1.0\cf0 \
+\cf2 Error: Goodrich Petroleum Corporation guess=company gold= confidence=0.9999932717113099\cf0 \
+\cf2 Error: Great Lakes Reit guess=movie gold= confidence=0.9178354371253762\cf0 \
+\cf2 Error: Great Northern Iron Ore Properties. guess=company gold= confidence=0.8696793254697364\cf0 \
+\cf2 Error: Griffon Corporation guess=company gold= confidence=0.9999999537435151\cf0 \
+\cf2 Error: Groupe Danone guess=movie gold= confidence=0.5396654462313897\cf0 \
+\cf2 Error: Grubb & Ellis Co. guess=company gold= confidence=0.9999999603661459\cf0 \
+\cf2 Error: Gucci Group N V guess=company gold= confidence=0.9367559502127022\cf0 \
+\cf2 Error: Gundle Slt Environmental guess=movie gold= confidence=0.9061545249064442\cf0 \
+\cf2 Error: HALO Industries Inc. guess=company gold= confidence=0.9999999992371373\cf0 \
+\cf2 Error: Harris Corporation. guess=company gold= confidence=0.9999996666242815\cf0 \
+\cf2 Error: Harsco Corporation. guess=company gold= confidence=0.9999944926206921\cf0 \
+\cf2 Error: Head N.V. guess=place gold= confidence=0.9577599463641844\cf0 \
+\cf2 Error: Health Net, Inc. guess=company gold= confidence=0.9999929423668136\cf0 \
+\cf2 Error: Healthcare Rlty Tr guess=company gold= confidence=0.9998366272073997\cf0 \
+\cf2 Error: Highwoods Properties Inc guess=company gold= confidence=0.9999986624602192\cf0 \
+\cf2 Error: Home Depot Inc. guess=company gold= confidence=0.9999996253251562\cf0 \
+\cf2 Error: Homestake Mining Co. guess=company gold= confidence=0.9983030995843813\cf0 \
+\cf2 Error: Honeywell International, Inc. guess=company gold= confidence=0.9999967098779343\cf0 \
+\cf2 Error: Household Cap Tr I guess=company gold= confidence=0.9999671129720682\cf0 \
+\cf2 Error: IBP Inc. guess=company gold= confidence=0.9999995625224958\cf0 \
+\cf2 Error: Indiana Energy Inc. guess=company gold= confidence=0.9999999964401021\cf0 \
+\cf2 Error: Internacional de Cer?mica S.A. guess=company gold= confidence=0.9999945345455719\cf0 \
+\cf2 Error: J.P. Morgan Chase & Co. guess=company gold= confidence=0.999999991434022\cf0 \
+\cf2 Error: Jack in the Box Inc. guess=company gold= confidence=0.84567859628681\cf0 \
+\cf2 Error: John Hancock Patriot Global Dividend Fund guess=company gold= confidence=0.9984063819136703\cf0 \
+\cf2 Error: Jostens Inc. guess=company gold= confidence=0.9999855510191659\cf0 \
+\cf2 Error: KLM Royal Dutch Airlines. guess=movie gold= confidence=0.9990491884274155\cf0 \
+\cf2 Error: Kansas City Southern Industies Inc. guess=company gold= confidence=0.9999999999995081\cf0 \
+\cf2 Error: Katy Inds Inc guess=company gold= confidence=0.999999896495615\cf0 \
+\cf2 Error: Kimberly Clark Corp guess=company gold= confidence=0.7463844050530812\cf0 \
+\cf2 Error: Kinder Morgan Energy Partners L.P guess=company gold= confidence=0.9998374760156085\cf0 \
+\cf2 Error: Krispy Kreme Doughnuts, Inc. guess=company gold= confidence=0.9429918283932673\cf0 \
+\cf2 Error: LEXMARK INTL INC guess=company gold= confidence=0.999995849145295\cf0 \
+\cf2 Error: Lasmo Plc guess=company gold= confidence=0.9926291730196556\cf0 \
+\cf2 Error: Leggett & Platt Inc. guess=company gold= confidence=0.9999999531910637\cf0 \
+\cf2 Error: Leviathan Gas Pipeline Partners L.P guess=company gold= confidence=0.9334919678122048\cf0 \
+\cf2 Error: Lexington Corporate Properties Trust guess=company gold= confidence=0.9999999999996171\cf0 \
+\cf2 Error: Liberty Ppty Tr guess=company gold= confidence=0.5363274083086055\cf0 \
+\cf2 Error: Lincoln National Capital III guess=company gold= confidence=0.9983531224856836\cf0 \
+\cf2 Error: Ltc Pptys Inc guess=company gold= confidence=0.999999548680851\cf0 \
+\cf2 Error: Lyondell Chemical Co. guess=company gold= confidence=0.9999813180619267\cf0 \
+\cf2 Error: Manpower Inc. guess=company gold= confidence=0.9999997620699326\cf0 \
+\cf2 Error: Markel Corporation. guess=company gold= confidence=0.9999927114349073\cf0 \
+\cf2 Error: Mascotech Inc. guess=company gold= confidence=0.9995731665616868\cf0 \
+\cf2 Error: Maxtor Corp. guess=company gold= confidence=0.9997635344859385\cf0 \
+\cf2 Error: May Department Stores Co. guess=company gold= confidence=0.999995936365984\cf0 \
+\cf2 Error: Mdu Resources Group Inc. guess=company gold= confidence=0.9999999999976364\cf0 \
+\cf2 Error: Mead Corporation. guess=company gold= confidence=0.9999975141784114\cf0 \
+\cf2 Error: Medical Assurance Inc. guess=company gold= confidence=0.9999999934367783\cf0 \
+\cf2 Error: Merck & Co Inc. guess=company gold= confidence=0.9999999989826528\cf0 \
+\cf2 Error: Mercury General Corporation. guess=company gold= confidence=0.9999997830713502\cf0 \
+\cf2 Error: Meristar Hotels & Resorts, Inc. guess=company gold= confidence=0.9999999353555231\cf0 \
+\cf2 Error: Metals Usa, Inc. guess=company gold= confidence=0.9999671592671077\cf0 \
+\cf2 Error: Mettler Toledo International Inc. guess=company gold= confidence=0.9980473358495261\cf0 \
+\cf2 Error: Mid Atlanta Medical Services Inc. guess=company gold= confidence=0.9999999990516337\cf0 \
+\cf2 Error: Millipore Corporation. guess=company gold= confidence=0.9999999393727532\cf0 \
+\cf2 Error: Mills Corporation. guess=company gold= confidence=0.9999998529123107\cf0 \
+\cf2 Error: Minerals Technologies Inc. guess=company gold= confidence=0.9999999255090878\cf0 \
+\cf2 Error: Minnesota Municipal Term Trust Inc. guess=company gold= confidence=0.9999999997909639\cf0 \
+\cf2 Error: Mmi Products Inc. guess=company gold= confidence=0.9999999929569403\cf0 \
+\cf2 Error: Monaco Coach Corpration guess=company gold= confidence=0.9999976342444337\cf0 \
+\cf2 Error: Monongahela Pwr Co guess=company gold= confidence=0.7095913786164226\cf0 \
+\cf2 Error: Montana Pwr Cap I guess=company gold= confidence=0.9999545426079998\cf0 \
+\cf2 Error: Moore Corporation Ltd guess=company gold= confidence=0.9999999999923566\cf0 \
+\cf2 Error: Motivepower Industries Inc. guess=company gold= confidence=0.9999999994348924\cf0 \
+\cf2 Error: Mueller Inds Inc guess=company gold= confidence=0.9999999059480418\cf0 \
+\cf2 Error: Mutual Risk Mangement Ltd. guess=movie gold= confidence=0.5703036014123183\cf0 \
+\cf2 Error: NBCI Auto Commn Exchange guess=company gold= confidence=0.9970758588060286\cf0 \
+\cf2 Error: National Australia Bank Ltd. guess=company gold= confidence=0.9999999962660444\cf0 \
+\cf2 Error: National Golf Properties Inc. guess=company gold= confidence=0.9999999320099242\cf0 \
+\cf2 Error: Nations Balanced Target Maturity Fund, Inc. guess=company gold= confidence=0.7674710053141872\cf0 \
+\cf2 Error: Newfield Exploration Co. guess=company gold= confidence=0.9999997634275914\cf0 \
+\cf2 Error: Nfo Worldwide Inc. guess=company gold= confidence=0.9999999142547065\cf0 \
+\cf2 Error: Nippon Telegraph and Telephone Corp. guess=company gold= confidence=0.9999994617672076\cf0 \
+\cf2 Error: Noble Affiliates Inc. guess=company gold= confidence=0.9999974680162845\cf0 \
+\cf2 Error: Northrop Grumman Corporation guess=company gold= confidence=0.9999946242986332\cf0 \
+\cf2 Error: Northwest Natural Gas Company guess=company gold= confidence=0.9993169542175481\cf0 \
+\cf2 Error: Novartis guess=movie gold= confidence=0.3702739031951198\cf0 \
+\cf2 Error: Nuveen Arizona Premium Income Municipal Fund guess=company gold= confidence=0.9999999970758147\cf0 \
+\cf2 Error: Nuveen California Performance Municipal Fund guess=company gold= confidence=0.9999516909757377\cf0 \
+\cf2 Error: Nuveen California Select Quality Municipal Fund guess=company gold= confidence=0.9999799527351478\cf0 \
+\cf2 Error: Nuveen Insured New York Select Tax-Free Income Portfolio guess=company gold= confidence=0.9720091429570245\cf0 \
+\cf2 Error: Nuveen New Jersey Investment Quality Municipal Fund guess=company gold= confidence=0.9999999540426147\cf0 \
+\cf2 Error: Nuveen New York Performance Plus Municipal Fund guess=company gold= confidence=0.9995747794026184\cf0 \
+\cf2 Error: Nuveen New York Quality Income Municipal Fund guess=company gold= confidence=0.9999968297962768\cf0 \
+\cf2 Error: Nuveen New York Select Quality Municipal Fund guess=company gold= confidence=0.9811093231144716\cf0 \
+\cf2 Error: Omnicom Group Inc. guess=company gold= confidence=0.9999999999932518\cf0 \
+\cf2 Error: Oneok Inc. guess=company gold= confidence=0.9999978034034299\cf0 \
+\cf2 Error: Orbital Engine Corporation Ltd. guess=company gold= confidence=0.9999999999999873\cf0 \
+\cf2 Error: Outback Steakhouse, Inc. guess=company gold= confidence=0.9817306258176284\cf0 \
+\cf2 Error: Pacific Gulf Properties Inc. guess=company gold= confidence=0.9999999951673588\cf0 \
+\cf2 Error: Pacificorp Cap Ii guess=company gold= confidence=0.9999848629809962\cf0 \
+\cf2 Error: Packaging Corporation Of America guess=company gold= confidence=0.9999793900883093\cf0 \
+\cf2 Error: Pakistan Investment Fund, Inc. guess=company gold= confidence=0.9999999247358883\cf0 \
+\cf2 Error: Pan Pacific Retail Properties guess=company gold= confidence=0.9941448707321107\cf0 \
+\cf2 Error: Partnerre Ltd guess=company gold= confidence=0.9999940924846964\cf0 \
+\cf2 Error: PennEngineering guess=place gold= confidence=0.995114430459173\cf0 \
+\cf2 Error: Pharmacia Corporation guess=company gold= confidence=0.9999999357021434\cf0 \
+\cf2 Error: Pimco Commercial Mortgage Securities Trust, Inc. guess=company gold= confidence=0.9999999999998649\cf0 \
+\cf2 Error: Pitney Bowes Inc guess=company gold= confidence=0.992569932331086\cf0 \
+\cf2 Error: Plc Cap Tr I guess=company gold= confidence=0.999999975919854\cf0 \
+\cf2 Error: Policy Management Systems Corporation. guess=company gold= confidence=0.9989669914542627\cf0 \
+\cf2 Error: Progressive Return Fund, Inc. guess=company gold= confidence=0.999999188519558\cf0 \
+\cf2 Error: Prospect Street High Income Portfolio Inc. guess=company gold= confidence=0.999783914030032\cf0 \
+\cf2 Error: Pure Resources, Inc. guess=company gold= confidence=0.9999991287523426\cf0 \
+\cf2 Error: Putnam Master Intermediate Income Trust guess=company gold= confidence=0.9999986148339737\cf0 \
+\cf2 Error: Putnam Municipal Opportunities Trust guess=company gold= confidence=0.9999973305900669\cf0 \
+\cf2 Error: Ralston Purina Co guess=company gold= confidence=0.6559084298594943\cf0 \
+\cf2 Error: Rayonier Inc. guess=company gold= confidence=0.9999980112501575\cf0 \
+\cf2 Error: Raytech Corporation. guess=company gold= confidence=0.9999987701265753\cf0 \
+\cf2 Error: Rdo Equipment Co. guess=company gold= confidence=0.9999996263369638\cf0 \
+\cf2 Error: Readers Digest Associates Inc. guess=company gold= confidence=0.9999980057342018\cf0 \
+\cf2 Error: Readers Digest Association Inc. guess=company gold= confidence=0.9999999867520175\cf0 \
+\cf2 Error: Rhodia guess=drug gold= confidence=0.5260390909748478\cf0 \
+\cf2 Error: Rightchoice Managed Care Inc. guess=company gold= confidence=0.9997631205787232\cf0 \
+\cf2 Error: Rohm & Haas Co. guess=company gold= confidence=0.9999996813801222\cf0 \
+\cf2 Error: Rollins Truck Leasing Corporation. guess=company gold= confidence=0.9999999888748787\cf0 \
+\cf2 Error: Rouse Company guess=company gold= confidence=0.9996219997458582\cf0 \
+\cf2 Error: Ruby Tuesday Inc. guess=company gold= confidence=0.9998659645813684\cf0 \
+\cf2 Error: Ryland Group Inc. guess=company gold= confidence=0.9999999987187139\cf0 \
+\cf2 Error: S&P Global 100 Index guess=drug gold= confidence=0.6302602736569756\cf0 \
+\cf2 Error: SAP AG guess=company gold= confidence=0.9971504170916012\cf0 \
+\cf2 Error: Safeway Inc. guess=company gold= confidence=0.9999314424407806\cf0 \
+\cf2 Error: Saks Inc. guess=company gold= confidence=0.9999993353932173\cf0 \
+\cf2 Error: Salomon Smith Barney Holding Inc. guess=company gold= confidence=0.7146174529131112\cf0 \
+\cf2 Error: San Paolo-Imi S P A guess=company gold= confidence=0.8505289255805957\cf0 \
+\cf2 Error: Santander Overseas Bank, Inc. guess=company gold= confidence=0.9999990313165624\cf0 \
+\cf2 Error: Scotts Co guess=company gold= confidence=0.8289657924067793\cf0 \
+\cf2 Error: Scudder Multi-Market Income Trust guess=company gold= confidence=0.9999909320989789\cf0 \
+\cf2 Error: Scudder Strategic Municipal Income Trust guess=company gold= confidence=0.9999999991674724\cf0 \
+\cf2 Error: Seacor Smit Inc. guess=company gold= confidence=0.9999760733888783\cf0 \
+\cf2 Error: Serono guess=drug gold= confidence=0.9413245357728434\cf0 \
+\cf2 Error: Shaw Communications Inc. guess=company gold= confidence=0.9999999997108753\cf0 \
+\cf2 Error: Sierra Pac Pwr Cap I guess=company gold= confidence=0.9998347254008717\cf0 \
+\cf2 Error: Sizeler Property Investors Inc. guess=company gold= confidence=0.9999999998099258\cf0 \
+\cf2 Error: Smith Charles E Residential Realty Inc. guess=company gold= confidence=0.999994104283513\cf0 \
+\cf2 Error: Socieda Quimica Min De Chile guess=company gold= confidence=0.999439746120678\cf0 \
+\cf2 Error: South Jersey Industries Inc. guess=company gold= confidence=0.999999978685904\cf0 \
+\cf2 Error: Specialty Laboratories, Inc. guess=company gold= confidence=0.9999993268222177\cf0 \
+\cf2 Error: Ssbh Cap I guess=company gold= confidence=0.997483021069213\cf0 \
+\cf2 Error: St. Paul Companies guess=person gold= confidence=0.6220406574277839\cf0 \
+\cf2 Error: Standard Commercial Corporation. guess=company gold= confidence=0.999996852379083\cf0 \
+\cf2 Error: Standex International Corporation. guess=company gold= confidence=0.9999977739930717\cf0 \
+\cf2 Error: Sulzer Medica guess=drug gold= confidence=0.7054177737618068\cf0 \
+\cf2 Error: Sunbeam Corporation guess=company gold= confidence=0.9999919009697542\cf0 \
+\cf2 Error: Swisscom Ag guess=person gold= confidence=0.465044234229502\cf0 \
+\cf2 Error: Talbots Inc. guess=company gold= confidence=0.9999975114739211\cf0 \
+\cf2 Error: Tefron Ltd. guess=company gold= confidence=0.999867347533265\cf0 \
+\cf2 Error: Telebras HOLDRs guess=place gold= confidence=0.4931983022562744\cf0 \
+\cf2 Error: Telef?nica del Per? SA guess=company gold= confidence=0.9995547601289578\cf0 \
+\cf2 Error: Telemig Celular Participa??es S.A. guess=company gold= confidence=0.99999999295589\cf0 \
+\cf2 Error: Templeton Emerging Markets Appreciation Fund, Inc. guess=company gold= confidence=0.9994772513893941\cf0 \
+\cf2 Error: Tennessee Valley Auth guess=company gold= confidence=0.5380389634823306\cf0 \
+\cf2 Error: Terra Industries Inc. guess=company gold= confidence=0.9999999979379754\cf0 \
+\cf2 Error: Terra Nitrogen Co. LP guess=company gold= confidence=0.9996828012658378\cf0 \
+\cf2 Error: Tesoro Petroleum Corporation. guess=company gold= confidence=0.9999999905578768\cf0 \
+\cf2 Error: Texas Instruments Inc. guess=company gold= confidence=0.9999999877731891\cf0 \
+\cf2 Error: Texas Utils Co guess=company gold= confidence=0.9996845690716901\cf0 \
+\cf2 Error: The Blackrock 2001 Term Trust Inc. guess=company gold= confidence=0.9999885306235349\cf0 \
+\cf2 Error: The Blackrock Florida Insured Municipal 2008 Term Trust guess=movie gold= confidence=0.9995846486756959\cf0 \
+\cf2 Error: The Blackrock Insured Municipal 2008 Term Trust Inc. guess=company gold= confidence=0.999999982200996\cf0 \
+\cf2 Error: The Gabelli Equity Trust Inc. guess=company gold= confidence=0.9999999980968612\cf0 \
+\cf2 Error: The Germany Fund, Inc. guess=company gold= confidence=0.9999917517930904\cf0 \
+\cf2 Error: The Great-wesr Life Assurance Company guess=company gold= confidence=0.9271163718348702\cf0 \
+\cf2 Error: The Greater China Fund, Inc. guess=company gold= confidence=0.9998618558524476\cf0 \
+\cf2 Error: The Latin American Discovery Fund, Inc. guess=movie gold= confidence=0.7869267667890871\cf0 \
+\cf2 Error: The Swiss Helvetia Fund, Inc. guess=company gold= confidence=0.9944633285332748\cf0 \
+\cf2 Error: Theragenics Corporation. guess=company gold= confidence=0.9999599424380983\cf0 \
+\cf2 Error: Thomas Industries Inc. guess=company gold= confidence=0.9999999988640123\cf0 \
+\cf2 Error: Time Warner Capital I guess=company gold= confidence=0.9365719400275758\cf0 \
+\cf2 Error: Transcontinental Realty Investors Inc. guess=company gold= confidence=0.9999999999498034\cf0 \
+\cf2 Error: Transportadora de Gas del Sur guess=movie gold= confidence=0.8733001937731063\cf0 \
+\cf2 Error: Tremont Corporation guess=company gold= confidence=0.9999784231823936\cf0 \
+\cf2 Error: Trinity Industries Inc. guess=company gold= confidence=0.9999999971103684\cf0 \
+\cf2 Error: Triton Energy Ltd guess=company gold= confidence=0.9999463960039979\cf0 \
+\cf2 Error: Twin Disc Inc. guess=company gold= confidence=0.9999939429960363\cf0 \
+\cf2 Error: UAL Corporation. guess=company gold= confidence=0.9999999544601212\cf0 \
+\cf2 Error: UNOCAL CORP guess=company gold= confidence=0.999852709308523\cf0 \
+\cf2 Error: US Airways Group Inc guess=company gold= confidence=0.9999999988566901\cf0 \
+\cf2 Error: Un Banco M?s de Todos guess=company gold= confidence=0.9556676715761148\cf0 \
+\cf2 Error: UniSource Energy Corporation guess=company gold= confidence=0.9999999726894045\cf0 \
+\cf2 Error: Unigraphics Solutions Inc. guess=company gold= confidence=0.9999923081835081\cf0 \
+\cf2 Error: Unisys Corp guess=company gold= confidence=0.9999797802005658\cf0 \
+\cf2 Error: United Parcel Service, Inc. guess=company gold= confidence=0.9999770788248431\cf0 \
+\cf2 Error: United Park City Mines Co.. guess=company gold= confidence=0.9999855429734779\cf0 \
+\cf2 Error: United Technologies Corporation. guess=company gold= confidence=0.9999999998985122\cf0 \
+\cf2 Error: Uni?o de Bancos Brasileiros S.A (Unibanco) guess=company gold= confidence=0.9972079536270629\cf0 \
+\cf2 Error: UnumProvident Corporation guess=company gold= confidence=0.9999926028501225\cf0 \
+\cf2 Error: Urstadt Biddle Properties Inc. guess=company gold= confidence=0.9999999860473036\cf0 \
+\cf2 Error: Usx Marathon Lg-Tm guess=movie gold= confidence=0.9412335166780464\cf0 \
+\cf2 Error: Van Kampen Bond Fund guess=movie gold= confidence=0.6148763621985904\cf0 \
+\cf2 Error: Van Kampen High Income Trust II guess=company gold= confidence=0.9990353765953112\cf0 \
+\cf2 Error: Van Kampen Senior Income Trust guess=company gold= confidence=0.9988357550917869\cf0 \
+\cf2 Error: Venator Group Inc. guess=company gold= confidence=0.9999999977234145\cf0 \
+\cf2 Error: Verizon Communications guess=company gold= confidence=0.6842056707848022\cf0 \
+\cf2 Error: Viacom Inc. guess=company gold= confidence=0.9999812980310473\cf0 \
+\cf2 Error: Viasystems Group Inc guess=company gold= confidence=0.9999999505015925\cf0 \
+\cf2 Error: Vintage Petroleum Inc. guess=company gold= confidence=0.999999802875043\cf0 \
+\cf2 Error: Vishay Intertechnology Inc. guess=company gold= confidence=0.9999992585130836\cf0 \
+\cf2 Error: Vlasic Foods International Inc. guess=company gold= confidence=0.9999999988050435\cf0 \
+\cf2 Error: Volt Information Sciences Inc. guess=company gold= confidence=0.9999898445194192\cf0 \
+\cf2 Error: Wackenhut Corporation. guess=company gold= confidence=0.998955695189645\cf0 \
+\cf2 Error: Washington Real Estate Investment guess=company gold= confidence=0.9925501355649488\cf0 \
+\cf2 Error: Weddell & Reed Financial Inc guess=company gold= confidence=0.9999986540375287\cf0 \
+\cf2 Error: Wellpoint Health Networks Inc. guess=company gold= confidence=0.9891085476826434\cf0 \
+\cf2 Error: Wendys Fing I guess=company gold= confidence=0.9978124426488647\cf0 \
+\cf2 Error: Westport Resources Corporation guess=company gold= confidence=0.9999998001946402\cf0 \
+\cf2 Error: White Mount Ins Grp Ltd Berm guess=company gold= confidence=0.9996659889554971\cf0 \
+\cf2 Error: Whitehall Jewellers Inc guess=company gold= confidence=0.8515329350104673\cf0 \
+\cf2 Error: Williams Companies Inc guess=company gold= confidence=0.9999999998114354\cf0 \
+\cf2 Error: Winston Hotels, Inc. guess=company gold= confidence=0.9999909583239912\cf0 \
+\cf2 Error: Wmc Ltd guess=company gold= confidence=0.999756434126631\cf0 \
+\cf2 Error: World Wrestling Federation Entertainment, Inc. guess=company gold= confidence=0.9995913933638597\cf0 \
+\cf2 Error: Wpsr Cap Tr I guess=company gold= confidence=0.9999731497963332\cf0 \
+\cf2 Error: Wynns International Inc. guess=company gold= confidence=0.9999999994492735\cf0 \
+\cf2 Error: YPF guess=movie gold= confidence=0.2\cf0 \
+\cf2 Error: iStar Financial Inc. guess=company gold= confidence=0.9999999999020748\cf0 \
+\cf2 Error: lehman Brothers Holdings Capital. guess=company gold= confidence=0.9797142200501383}
